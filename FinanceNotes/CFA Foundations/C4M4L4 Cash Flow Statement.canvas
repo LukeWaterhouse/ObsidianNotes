@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4a6bc49a56caf02d","type":"text","text":"# **Cash Flow Statement**\n\nIdentifies the sources and uses of cash during a period and explains the change in the cash balance reported on the balance sheet.\n\n","x":-1200,"y":-1000,"width":680,"height":260},
-		{"id":"99b332d3b6a10e0b","x":-480,"y":-1000,"width":400,"height":343,"type":"file","file":"Pasted image 20260909145918.png"}
+		{"id":"99b332d3b6a10e0b","type":"file","file":"Pasted image 20260909145918.png","x":-480,"y":-1000,"width":400,"height":343}
 	],
 	"edges":[]
 }

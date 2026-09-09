@@ -6,6 +6,7 @@
       {
         "id": "b7781713df1825a4",
         "type": "tabs",
+        "dimension": 62.696850393700785,
         "children": [
           {
             "id": "b7b4e7d59de2205e",
@@ -15,16 +16,76 @@
               "state": {
                 "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
                 "viewState": {
-                  "x": -508.49469546723367,
-                  "y": 452.0541072493697,
-                  "zoom": -1.6308582196109875
+                  "x": -866.067523149409,
+                  "y": -748.1094179960764,
+                  "zoom": -0.6419147500969388
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C4M4L2 Balance Sheet"
+            }
+          },
+          {
+            "id": "374a3c2e3bc4d131",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "viewState": {
+                  "x": 3,
+                  "y": -80.5,
+                  "zoom": -2.381239764153846
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "C4M4L2 Balance Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "34a96da70c36276c",
+        "type": "tabs",
+        "dimension": 37.303149606299215,
+        "children": [
+          {
+            "id": "fb2e5e18d8f66feb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CFA Foundations/C4M4L4 Cash Flow Statement.canvas",
+                "viewState": {
+                  "x": -640,
+                  "y": -828.5,
+                  "zoom": -1.2781018539227356
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C4M4L4 Cash Flow Statement"
+            }
+          },
+          {
+            "id": "36f879a4efa97552",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "viewState": {
+                  "x": -655.3617221136934,
+                  "y": -375.2179847299513,
+                  "zoom": -1.6002279984863415
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C4M4L2 Balance Sheet"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.6278648376465
+    "width": 200
   },
   "right": {
     "id": "469457552843cc63",
@@ -187,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +263,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04c1e11b9c2cd388",
+  "active": "36f879a4efa97552",
   "lastOpenFiles": [
+    "CFA Foundations/Drawing 2026-09-09 15.17.13.excalidraw.md",
+    "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+    "CFA Foundations/C4M4L4 Cash Flow Statement.canvas",
+    "CFA Foundations/C4M4L3 Income Statement.canvas",
+    "Accounting/The Balance Sheet.md",
+    "Excalidraw/Drawing 2026-09-09 15.16.31.excalidraw.md",
+    "Excalidraw",
     "2026-09-09.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "CFA Foundations/C4M4L3 Income Statement.canvas",
-    "CFA Foundations/C4M4L4 Cash Flow Statement.canvas",
     "Pasted image 20260909145918.png",
     "Pasted image 20260909145914.png",
-    "CFA Foundations/C4M4L2 Balance Sheet.canvas",
     "Pasted image 20260908110450.png",
     "CFA Foundations/C4M4L3 Income Statement.md",
     "Pasted image 20260908103704.png",
@@ -224,7 +289,6 @@
     "Pasted image 20260907152644.png",
     "CFA Foundations",
     "IMC/Financial Markets and Institutions/Introduction.md",
-    "Accounting/The Balance Sheet.md",
     "Accounting",
     "IMC/My Finance Glossary.md",
     "IMC/Images",
