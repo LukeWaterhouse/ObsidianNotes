@@ -6,7 +6,6 @@
       {
         "id": "637f63f7e578d208",
         "type": "tabs",
-        "dimension": 77.8270509977827,
         "children": [
           {
             "id": "5d43b6e59226dbfd",
@@ -14,56 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Balance Sheet.canvas",
+                "file": "CFA Foundations/Accounting/Balance Sheet.canvas",
                 "viewState": {
-                  "x": -1030.3156572466855,
-                  "y": -257.99717328627946,
-                  "zoom": -0.6371745743776662
+                  "x": -1217.3105906848004,
+                  "y": -1447.2803212702595,
+                  "zoom": -0.618794500074648
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Balance Sheet"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ac9da9a116b9b53c",
-        "type": "tabs",
-        "dimension": 22.172949002217297,
-        "children": [
-          {
-            "id": "587e38e08f2517a2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CFA Foundations/Balance Sheet.canvas",
-                "viewState": {
-                  "x": -432.55586949811027,
-                  "y": 101.71700263498099,
-                  "zoom": -1.5875515601202972
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Balance Sheet"
-            }
-          },
-          {
-            "id": "07db41bf54dd7c65",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CFA Foundations/Cash Flow Statement.canvas",
-                "viewState": {
-                  "x": -640,
-                  "y": -570,
-                  "zoom": -0.7510867024108591
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cash Flow Statement"
             }
           }
         ]
@@ -246,15 +204,20 @@
   },
   "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "CFA Foundations/Cash Flow Statement.canvas",
-    "CFA Foundations/Income Statement.canvas",
-    "CFA Foundations/Balance Sheet.canvas",
+    "CFA Foundations/Accounting/Cash Flow Statement.canvas",
+    "CFA Foundations/Accounting/Balance Sheet.canvas",
+    "CFA Foundations/Accounting/Income Statement.canvas",
+    "Attachments/Depreciation.png",
+    "Attachments/Pasted image 20260908110450.png",
+    "Attachments/Pasted image 20260909145914.png",
+    "Attachments/Pasted image 20260909145918.png",
+    "Attachments/Pasted image 20260909160330.png",
+    "Attachments/Pasted image 20260909161811.png",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
     "CFA Foundations/Accounting",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",
     "Attachments/Pasted image 20260907152644.png",
-    "Attachments/Pasted image 20260909161811.png",
     "CFA Foundations/Attachments/Pasted image 20260909161118.png",
     "CFA Foundations/Attachments",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
@@ -265,18 +228,13 @@
     "IMC/Untitled.base",
     "Accounting/The Balance Sheet.md",
     "IMC/My Finance Glossary.md",
-    "Attachments/Pasted image 20260909160330.png",
     "Excalidraw/Drawing 2026-09-09 15.16.31.excalidraw.md",
     "Excalidraw",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Attachments/Pasted image 20260909145918.png",
-    "Attachments/Pasted image 20260909145914.png",
-    "Attachments/Pasted image 20260908110450.png",
     "CFA Foundations/C4M4L3 Income Statement.md",
     "Attachments/Pasted image 20260908103704.png",
     "Attachments/Pasted image 20260908085714.png",
-    "Attachments/Pasted image 20260908085555.png",
     "CFA Foundations",
     "Accounting",
     "IMC/Images",
