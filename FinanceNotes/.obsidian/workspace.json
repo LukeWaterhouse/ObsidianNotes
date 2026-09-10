@@ -4,88 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "b7781713df1825a4",
+        "id": "637f63f7e578d208",
         "type": "tabs",
-        "dimension": 62.696850393700785,
+        "dimension": 77.8270509977827,
         "children": [
           {
-            "id": "b7b4e7d59de2205e",
+            "id": "5d43b6e59226dbfd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "file": "CFA Foundations/Balance Sheet.canvas",
                 "viewState": {
-                  "x": -866.067523149409,
-                  "y": -748.1094179960764,
-                  "zoom": -0.6419147500969388
+                  "x": -1030.3156572466855,
+                  "y": -257.99717328627946,
+                  "zoom": -0.6371745743776662
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "C4M4L2 Balance Sheet"
-            }
-          },
-          {
-            "id": "374a3c2e3bc4d131",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
-                "viewState": {
-                  "x": 3,
-                  "y": -80.5,
-                  "zoom": -2.381239764153846
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "C4M4L2 Balance Sheet"
+              "title": "Balance Sheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "34a96da70c36276c",
+        "id": "ac9da9a116b9b53c",
         "type": "tabs",
-        "dimension": 37.303149606299215,
+        "dimension": 22.172949002217297,
         "children": [
           {
-            "id": "fb2e5e18d8f66feb",
+            "id": "587e38e08f2517a2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/C4M4L4 Cash Flow Statement.canvas",
+                "file": "CFA Foundations/Balance Sheet.canvas",
                 "viewState": {
-                  "x": -640,
-                  "y": -828.5,
-                  "zoom": -1.2781018539227356
+                  "x": -432.55586949811027,
+                  "y": 101.71700263498099,
+                  "zoom": -1.5875515601202972
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "C4M4L4 Cash Flow Statement"
+              "title": "Balance Sheet"
             }
           },
           {
-            "id": "36f879a4efa97552",
+            "id": "07db41bf54dd7c65",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "file": "CFA Foundations/Cash Flow Statement.canvas",
                 "viewState": {
-                  "x": -655.3617221136934,
-                  "y": -375.2179847299513,
-                  "zoom": -1.6002279984863415
+                  "x": -640,
+                  "y": -570,
+                  "zoom": -0.7510867024108591
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "C4M4L2 Balance Sheet"
+              "title": "Cash Flow Statement"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.23257064819336
   },
   "right": {
     "id": "469457552843cc63",
@@ -163,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "file": "CFA Foundations/Balance Sheet.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFA Foundations/C4M4L2 Balance Sheet.canvas",
+                "file": "CFA Foundations/Balance Sheet.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -263,34 +244,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36f879a4efa97552",
+  "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "CFA Foundations/Drawing 2026-09-09 15.17.13.excalidraw.md",
-    "CFA Foundations/C4M4L2 Balance Sheet.canvas",
-    "CFA Foundations/C4M4L4 Cash Flow Statement.canvas",
-    "CFA Foundations/C4M4L3 Income Statement.canvas",
+    "CFA Foundations/Cash Flow Statement.canvas",
+    "CFA Foundations/Income Statement.canvas",
+    "CFA Foundations/Balance Sheet.canvas",
+    "CFA Foundations/Accounting/Assets.md",
+    "CFA Foundations/Accounting/Balance Sheet.md",
+    "CFA Foundations/Accounting",
+    "Drawing 2026-09-09 16.08.36.excalidraw.md",
+    "Attachments/Pasted image 20260907152644.png",
+    "Attachments/Pasted image 20260909161811.png",
+    "CFA Foundations/Attachments/Pasted image 20260909161118.png",
+    "CFA Foundations/Attachments",
+    "Drawing 2026-09-09 15.17.13.excalidraw.md",
+    "Attachments",
+    "Untitled.canvas",
+    "2026-09-09.md",
+    "IMC/Financial Markets and Institutions/Introduction.md",
+    "IMC/Untitled.base",
     "Accounting/The Balance Sheet.md",
+    "IMC/My Finance Glossary.md",
+    "Attachments/Pasted image 20260909160330.png",
     "Excalidraw/Drawing 2026-09-09 15.16.31.excalidraw.md",
     "Excalidraw",
-    "2026-09-09.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Pasted image 20260909145918.png",
-    "Pasted image 20260909145914.png",
-    "Pasted image 20260908110450.png",
+    "Attachments/Pasted image 20260909145918.png",
+    "Attachments/Pasted image 20260909145914.png",
+    "Attachments/Pasted image 20260908110450.png",
     "CFA Foundations/C4M4L3 Income Statement.md",
-    "Pasted image 20260908103704.png",
-    "Pasted image 20260908085714.png",
-    "Pasted image 20260908085555.png",
-    "Pasted image 20260908085551.png",
-    "Untitled.canvas",
-    "Pasted image 20260908083440.png",
-    "Pasted image 20260907152726.png",
-    "Pasted image 20260907152644.png",
+    "Attachments/Pasted image 20260908103704.png",
+    "Attachments/Pasted image 20260908085714.png",
+    "Attachments/Pasted image 20260908085555.png",
     "CFA Foundations",
-    "IMC/Financial Markets and Institutions/Introduction.md",
     "Accounting",
-    "IMC/My Finance Glossary.md",
     "IMC/Images",
     "IMC",
     "Financial Markets and Institutions/Untitled.md",
