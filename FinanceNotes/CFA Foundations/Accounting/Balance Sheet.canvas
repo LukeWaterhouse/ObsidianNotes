@@ -8,7 +8,7 @@
 		{"id":"59176805e0f611bd","type":"file","file":"Attachments/Pasted image 20260908103704.png","x":-1418,"y":-1904,"width":646,"height":501},
 		{"id":"6ee29053a2bf43e9","type":"file","file":"Attachments/Pasted image 20260908083440.png","x":-1638,"y":-7,"width":693,"height":495},
 		{"id":"f122ad58c450a9b6","type":"file","file":"Attachments/Pasted image 20260907152644.png","x":-1883,"y":-974,"width":245,"height":198},
-		{"id":"e1805bd211d4445e","type":"text","text":"## **Conceptual Summary**\n\nTotal liabilities and shareholders equity are how the company assets are financed.\n\nASSETS: What we have\n(Economic resources the company controls to generate profit such as cash, inventory to sell and PP&E)\n\nLIABILITIES + EQUITY: How we paid for it\n(money borrowed and funds provided by the owners of the company)\n\n[[Cash Flow Statement.canvas]]v t","x":-680,"y":-1354,"width":853,"height":440,"color":"6"}
+		{"id":"e1805bd211d4445e","type":"text","text":"## **Conceptual Summary**\n\nTotal liabilities and shareholders equity are how the company assets are financed.\n\nASSETS: What we have\n(Economic resources the company controls to generate profit such as cash, inventory to sell and PP&E)\n\nLIABILITIES + EQUITY: How we paid for it\n(money borrowed and funds provided by the owners of the company)\n\n[[Cash Flow Statement.canvas]]","x":-680,"y":-1354,"width":853,"height":440,"color":"6"}
 	],
 	"edges":[
 		{"id":"2b3a296cecea280a","fromNode":"4a6bc49a56caf02d","fromSide":"left","toNode":"c8f761a67f8a6430","toSide":"bottom"},

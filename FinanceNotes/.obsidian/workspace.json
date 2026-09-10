@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Accounting/Balance Sheet.canvas",
+                "file": "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
                 "viewState": {
-                  "x": -1140.6775121652918,
-                  "y": -1488.3224221236742,
-                  "zoom": -0.9682762869996122
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Balance Sheet"
+              "title": "Links Between Financial Statements"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
+    "CFA Foundations/Accounting/Income Statement.canvas",
     "CFA Foundations/Accounting/Cash Flow Statement.canvas",
     "CFA Foundations/Accounting/Balance Sheet.canvas",
-    "CFA Foundations/Accounting/Income Statement.canvas",
+    "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
     "Attachments/Depreciation.png",
     "Attachments/Pasted image 20260908110450.png",
     "Attachments/Pasted image 20260909145914.png",
