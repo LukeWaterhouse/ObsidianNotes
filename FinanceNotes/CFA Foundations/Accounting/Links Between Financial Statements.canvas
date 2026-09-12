@@ -1,1 +1,8 @@
-{}
+{
+	"nodes":[
+		{"id":"846b8d2d5c8e2b8f","type":"text","text":"# Income statement and Cash Flow discrepancies\n\n* **Profit** is **not the same** as **net cashflow**, cashflow statement reconciles these differences.\n\nLets take an example\n\nCompany ABC reports net income of $76 million but net cash flow was $7 million\n\n$90 million spent on PP&E  and $43 million on dividends for example were not recorded when calculating net income. (there were other positive net cash flow too like cash inflows from borrowing long term debt)\n\nThe income statement uses **accrual accounting** to match revenues earned with the expenses incurred to generate them—it measures operational performance, not raw cash flows or balance sheet swaps.\n\n- **Inventory & PP&E (Asset Swaps):** Buying inventory or equipment swaps cash for another asset. These only hit the income statement when consumed or sold (as **Cost of Goods Sold** or **Depreciation**).\n\n- **Debt Principal:** Borrowing or repaying debt exchanges cash for a liability. Only the **interest expense** touches the income statement.\n\n- **Stock Transactions (Equity):** Raising capital, repurchasing shares, or paying dividends are financing flows between the company and its owners—not operational income or expenses.\n\n\n","x":-420,"y":-580,"width":640,"height":640},
+		{"id":"dba57cfc0f665823","type":"file","file":"Attachments/Pasted image 20260910154352.png","x":300,"y":-550,"width":589,"height":740},
+		{"id":"c1b1099b183f9443","type":"text","text":"A company can be profitable but have negative cashflows, for example slow at collecting cash or heavily investing in PP&E.\n\nA company could also operate at a loss but have positive cashflows, like if high depreciation expenses or just really high investment (financing activities section of cash flow statement).","x":-420,"y":100,"width":680,"height":300}
+	],
+	"edges":[]
+}

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
+                "file": "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 692.132852278248,
+                  "y": -664.2498677845834,
+                  "zoom": -1.5181281277008356
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Links Between Financial Statements"
+              "title": "Financial Statement Analysis"
             }
           }
         ]
@@ -204,22 +204,25 @@
   },
   "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "CFA Foundations/Accounting/Income Statement.canvas",
-    "CFA Foundations/Accounting/Cash Flow Statement.canvas",
-    "CFA Foundations/Accounting/Balance Sheet.canvas",
     "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
+    "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
+    "CFA Foundations/Accounting/Balance Sheet.canvas",
+    "CFA Foundations/Accounting/Income Statement.canvas",
+    "Attachments/Pasted image 20260912093933.png",
+    "CFA Foundations/Accounting/Cash Flow Statement.canvas",
+    "Attachments/Pasted image 20260910160349.png",
+    "Attachments/Pasted image 20260910154352.png",
+    "Attachments/Pasted image 20260910154321.png",
+    "Attachments/Pasted image 20260910154318.png",
     "Attachments/Depreciation.png",
     "Attachments/Pasted image 20260908110450.png",
     "Attachments/Pasted image 20260909145914.png",
     "Attachments/Pasted image 20260909145918.png",
     "Attachments/Pasted image 20260909160330.png",
-    "Attachments/Pasted image 20260909161811.png",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
     "CFA Foundations/Accounting",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",
-    "Attachments/Pasted image 20260907152644.png",
-    "CFA Foundations/Attachments/Pasted image 20260909161118.png",
     "CFA Foundations/Attachments",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
     "Attachments",
@@ -234,8 +237,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "CFA Foundations/C4M4L3 Income Statement.md",
-    "Attachments/Pasted image 20260908103704.png",
-    "Attachments/Pasted image 20260908085714.png",
     "CFA Foundations",
     "Accounting",
     "IMC/Images",
