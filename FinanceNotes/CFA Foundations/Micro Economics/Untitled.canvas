@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"61a814452442d91a","type":"text","text":"## Microeconomics\n\nThis is the branch of economics that studies how individuals and companies allocate scarce resources.\n\n(*Macroeconomics is the study of the economy as a whole*)\n\n* **Supply**: quantity of a product sellers are willing and able to supply at a given price\n* **Demand**: quantity of a product buyers are willing and able to buy at a given price\n\nMicroeconomics allows companies to determine how much to charge and how it effects competitors.\n\nAlso allows investors to analyse how profitable companies are under different scenarios.","x":-469,"y":-580,"width":540,"height":420,"color":"6"},
+		{"id":"a1fce0f5c6b722d8","type":"text","text":"**Economics**: The study of production, distribution and consumption or the study of choices in the presence of scarce resources","x":-960,"y":-760,"width":391,"height":129}
+	],
+	"edges":[
+		{"id":"19804724f2a8e192","fromNode":"61a814452442d91a","fromSide":"left","toNode":"a1fce0f5c6b722d8","toSide":"bottom"}
+	]
+}
