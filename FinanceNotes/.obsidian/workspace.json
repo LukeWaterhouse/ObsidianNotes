@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
+                "file": "CFA Foundations/Accounting/Balance Sheet.canvas",
                 "viewState": {
-                  "x": 578.9350618210333,
-                  "y": -875.3430629540526,
-                  "zoom": -1.6377268900306552
+                  "x": -1032.8960867735036,
+                  "y": -1009.7545752872672,
+                  "zoom": -1.63526445093963
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Financial Statement Analysis"
+              "title": "Balance Sheet"
             }
           }
         ]
@@ -204,25 +204,28 @@
   },
   "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
+    "Anaplan/Roles.canvas",
+    "Attachments/Pasted image 20260917112412.png",
+    "Attachments/Pasted image 20260917112337.png",
+    "Attachments/Pasted image 20260917112256.png",
+    "Anaplan/Untitled.md",
+    "Drawing 2026-09-09 16.08.36.excalidraw.md",
+    "Anaplan",
     "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
-    "CFA Foundations/Accounting/Balance Sheet.canvas",
-    "CFA Foundations/Accounting/Income Statement.canvas",
-    "Attachments/Pasted image 20260912093933.png",
     "CFA Foundations/Accounting/Cash Flow Statement.canvas",
+    "CFA Foundations/Accounting/Balance Sheet.canvas",
+    "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
+    "CFA Foundations/Accounting/Income Statement.canvas",
+    "Attachments/Pasted image 20260916131041.png",
+    "Attachments/Pasted image 20260912093933.png",
     "Attachments/Pasted image 20260910160349.png",
     "Attachments/Pasted image 20260910154352.png",
     "Attachments/Pasted image 20260910154321.png",
     "Attachments/Pasted image 20260910154318.png",
     "Attachments/Depreciation.png",
-    "Attachments/Pasted image 20260908110450.png",
-    "Attachments/Pasted image 20260909145914.png",
-    "Attachments/Pasted image 20260909145918.png",
-    "Attachments/Pasted image 20260909160330.png",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
     "CFA Foundations/Accounting",
-    "Drawing 2026-09-09 16.08.36.excalidraw.md",
     "CFA Foundations/Attachments",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
     "Attachments",
@@ -242,7 +245,6 @@
     "IMC/Images",
     "IMC",
     "Financial Markets and Institutions/Untitled.md",
-    "Untitled 1.md",
-    "IMC/Financial Markets and Institutions"
+    "Untitled 1.md"
   ]
 }
