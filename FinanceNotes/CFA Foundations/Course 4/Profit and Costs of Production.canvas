@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"32a13a22ab5ece7a","type":"text","text":"## Profit and Costs of Production\n\nHow do production costs affect profitability\n\n### Accounting Profit vs Economic Profit\n\n* Accounting profit is just revenue - explicit expenses\n* Economic profit deducts implicit expenses (opportunity cost of a different action) as well.\n\t* Revenue - explicit expenses - implicit expenses","x":0,"y":-240,"width":520,"height":320},
+		{"id":"c6feecef92a69c05","type":"text","text":"## Fixed costs vs Variable costs\n\nFixed costs (overhead): do not fluctuate with companies output\n\n![[Pasted image 20260924151941.png|202]]\n\nVariable costs: fluctuate with ","x":-250,"y":-840,"width":670,"height":460}
+	],
+	"edges":[]
+}
