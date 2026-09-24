@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"752e0d0c10df0028","x":-200,"y":-280,"width":500,"height":420,"type":"text","text":"## Macro Economics\n\n\n"}
+		{"id":"752e0d0c10df0028","x":-200,"y":-280,"width":500,"height":420,"type":"text","text":"## Macro Economics\n\nStudy of the economy as a whole, considers the effects of:\n\n* Inflation\n* Economic growth\n* Unemployment\n* Interest rates\n* Exchange rates\n\nCan effect considerations of investment firms\n\n* Some investments benefit from **slow economic growth** and low inflation\n* Some benefit from **fast growth** and moderate inflation\n* Determines which asset classes to invest in"},
+		{"id":"0edc11eac22c6257","x":-880,"y":-880,"width":600,"height":440,"type":"text","text":"## GDP and Business Cycles\n\nGDP: **Gross domestic product** is the **total value** of all final **products** and **services** produced in a **country** over a **period of time**.\n\n![[Pasted image 20260924173126.png|301]]\n\n\n\n"}
 	],
 	"edges":[]
 }
