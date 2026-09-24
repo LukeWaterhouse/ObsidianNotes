@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Micro Economics/Untitled.canvas",
+                "file": "CFA Foundations/Micro Economics.canvas",
                 "viewState": {
-                  "x": 642.7087629616676,
-                  "y": -485.8889810987676,
-                  "zoom": -2.249385996078919
+                  "x": 1515.3344629119413,
+                  "y": -94.34818205565155,
+                  "zoom": -0.8171589963897304
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Micro Economics"
             }
           }
         ]
@@ -202,16 +202,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a25ed605d3b9b299",
+  "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260923171654.png",
-    "Attachments/Pasted image 20260923170538.png",
+    "CFA Foundations/Accounting/Balance Sheet.canvas",
+    "CFA Foundations/Micro Economics.canvas",
+    "Attachments/Pasted image 20260924144801.png",
     "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
     "CFA Foundations/Accounting/Income Statement.canvas",
+    "Attachments/Pasted image 20260924122807.png",
+    "Attachments/Pasted image 20260923171654.png",
+    "Attachments/Pasted image 20260923170538.png",
     "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
     "CFA Foundations/Accounting/Cash Flow Statement.canvas",
-    "CFA Foundations/Accounting/Balance Sheet.canvas",
-    "CFA Foundations/Micro Economics/Untitled.canvas",
     "Attachments/Pasted image 20260923170306.png",
     "Anaplan/Roles.canvas",
     "CFA Foundations/Micro Economics",
@@ -223,9 +225,6 @@
     "Anaplan",
     "Attachments/Pasted image 20260916131041.png",
     "Attachments/Pasted image 20260912093933.png",
-    "Attachments/Pasted image 20260910160349.png",
-    "Attachments/Pasted image 20260910154352.png",
-    "Attachments/Pasted image 20260910154321.png",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
     "CFA Foundations/Accounting",
