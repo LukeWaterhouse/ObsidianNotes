@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Micro Economics.canvas",
+                "file": "CFA Foundations/Course 4/Profit and Costs of Production.canvas",
                 "viewState": {
-                  "x": 1515.3344629119413,
-                  "y": -94.34818205565155,
-                  "zoom": -0.8171589963897304
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Micro Economics"
+              "title": "Profit and Costs of Production"
             }
           }
         ]
@@ -204,16 +204,18 @@
   },
   "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
-    "CFA Foundations/Accounting/Balance Sheet.canvas",
-    "CFA Foundations/Micro Economics.canvas",
+    "CFA Foundations/Course 4/Micro Economics.canvas",
+    "CFA Foundations/Course 4/Profit and Costs of Production.canvas",
+    "CFA Foundations/Course 4",
+    "CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
     "Attachments/Pasted image 20260924144801.png",
-    "CFA Foundations/Accounting/Links Between Financial Statements.canvas",
-    "CFA Foundations/Accounting/Income Statement.canvas",
+    "CFA Foundations/Course 4/Accounting/Links Between Financial Statements.canvas",
+    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "Attachments/Pasted image 20260924122807.png",
     "Attachments/Pasted image 20260923171654.png",
     "Attachments/Pasted image 20260923170538.png",
-    "CFA Foundations/Accounting/Financial Statement Analysis.canvas",
-    "CFA Foundations/Accounting/Cash Flow Statement.canvas",
+    "CFA Foundations/Course 4/Accounting/Financial Statement Analysis.canvas",
+    "CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
     "Attachments/Pasted image 20260923170306.png",
     "Anaplan/Roles.canvas",
     "CFA Foundations/Micro Economics",
@@ -227,7 +229,7 @@
     "Attachments/Pasted image 20260912093933.png",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
-    "CFA Foundations/Accounting",
+    "CFA Foundations/Course 4/Accounting",
     "CFA Foundations/Attachments",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
     "Attachments",
@@ -244,7 +246,6 @@
     "CFA Foundations/C4M4L3 Income Statement.md",
     "CFA Foundations",
     "Accounting",
-    "IMC/Images",
     "Financial Markets and Institutions/Untitled.md",
     "Untitled 1.md"
   ]
