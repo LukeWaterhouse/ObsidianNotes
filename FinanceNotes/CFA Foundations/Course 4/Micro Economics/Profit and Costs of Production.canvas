@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c6feecef92a69c05","type":"text","text":"## Fixed costs vs Variable costs\n\nFixed costs (overhead): do not fluctuate with companies output\n\n![[Pasted image 20260924151941.png|202]]\n\nVariable costs: fluctuate with with company output\n\n![[Pasted image 20260924152054.png|201]]\n\nSum of both equals Total costs:\n![[Pasted image 20260924152148.png|197]]\n\nPoint at which total costs and revenue intersect is breakeven point\n\nEconomies of scale: Cost savings from increase in output without comparable rise in fixed costs. Leads to reduction in total costs per unit.\n\nLaw of diminishing returns:\n\n![[Pasted image 20260924153624.png|304]]\n\n* High fixed costs mean low production could mean losses, high production means fixed costs spread over more units (economies of scale)\n* **Marginal cost**: cost of producing an additional unit\n* **Marginal revenue**: extra income by selling one more unit.\n\nProducing up to the point where **marginal cost == marginal revenue** should **maximise profit**\n","x":-410,"y":-800,"width":670,"height":460},
+		{"id":"32a13a22ab5ece7a","type":"text","text":"## Profit and Costs of Production\n\nHow do production costs affect profitability\n\n### Accounting Profit vs Economic Profit\n\n* Accounting profit is just revenue - explicit expenses [[Income Statement.canvas]]\n* Economic profit deducts implicit expenses (opportunity cost of a different action) as well.\n\t* Revenue - explicit expenses - implicit expenses","x":160,"y":-160,"width":520,"height":320}
+	],
+	"edges":[
+		{"id":"656870fd2a974f23","fromNode":"32a13a22ab5ece7a","fromSide":"top","toNode":"c6feecef92a69c05","toSide":"bottom"}
+	]
+}

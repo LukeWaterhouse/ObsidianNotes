@@ -13,18 +13,36 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Course 4/Profit and Costs of Production.canvas",
+                "file": "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
                 "viewState": {
-                  "x": 520,
-                  "y": -770,
-                  "zoom": -1.3425925577670057
+                  "x": 293.1501749231087,
+                  "y": -184.74386543680134,
+                  "zoom": -0.40427307121898903
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Profit and Costs of Production"
             }
+          },
+          {
+            "id": "98211f157963b133",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+                "viewState": {
+                  "x": 64.59580993652344,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Macro Economics"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,27 +220,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d43b6e59226dbfd",
+  "active": "98211f157963b133",
   "lastOpenFiles": [
+    "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
+    "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
+    "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
+    "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+    "CFA Foundations/Course 4/Macro Economics",
+    "CFA Foundations/Course 4/Micro Economics",
+    "CFA Foundations/Course 4/Untitled.md",
+    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "Attachments/Pasted image 20260924155319.png",
     "Attachments/Pasted image 20260924153624.png",
     "Attachments/Pasted image 20260924152231.png",
     "Attachments/Pasted image 20260924152148.png",
     "Attachments/Pasted image 20260924152054.png",
     "Attachments/Pasted image 20260924151941.png",
-    "CFA Foundations/Course 4/Micro Economics.canvas",
-    "CFA Foundations/Course 4/Profit and Costs of Production.canvas",
     "CFA Foundations/Course 4",
     "CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
     "Attachments/Pasted image 20260924144801.png",
     "CFA Foundations/Course 4/Accounting/Links Between Financial Statements.canvas",
-    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "Attachments/Pasted image 20260924122807.png",
     "Attachments/Pasted image 20260923171654.png",
     "Attachments/Pasted image 20260923170538.png",
     "CFA Foundations/Course 4/Accounting/Financial Statement Analysis.canvas",
     "CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
-    "Attachments/Pasted image 20260923170306.png",
     "Anaplan/Roles.canvas",
     "CFA Foundations/Micro Economics",
     "Anaplan/Untitled.md",
@@ -242,10 +264,7 @@
     "IMC/My Finance Glossary.md",
     "Excalidraw/Drawing 2026-09-09 15.16.31.excalidraw.md",
     "Excalidraw",
-    "Untitled 2.canvas",
     "CFA Foundations/C4M4L3 Income Statement.md",
-    "CFA Foundations",
-    "Accounting",
     "Financial Markets and Institutions/Untitled.md",
     "Untitled 1.md"
   ]

@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"fa5358c4136a57bb","x":-200,"y":-480,"width":960,"height":840,"type":"text","text":"## Market Environment\n\nHigh competition vs low competition\n\n* Price taker has no influence on market prices\n* Price maker has influence over market prices\n\n### Perfect Competition\n\n* No firm holding substantial market share\n* producers and consumers are price takers\n\n### Pure Monopoly\n\n* Single seller\n* Price maker\n* Barriers to entry to competitors like licenses, brand loyalty, control of natural resources\n* Can charge higher prices and produce lower volumes\n\n### Monopolistic Competition\n\n* Many firms competing in an industry where they produce similar but differentiated products\n* Like restaurants, clothes shops, PC manufacturers\n* Firms compete by adjusting quality, price\n\n### Oligopoly\n\n* Small number of firms operate, like oil, telecoms"}
+	],
+	"edges":[]
+}
