@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"45cb51211557e64f","x":-200,"y":-240,"width":540,"height":340,"type":"text","text":"## Web jobs\n\n* Built in feature of Azure App service\n* Enables running of background tasks, programs alongside your web API.\n* Runs in the same scalable, managed environment as your application.\n* Trigger jobs on demand, on a schedule or continuously\n\n### Choosing Web jobs\n\nGood fit when:\n\n* Already host your application on App Service.\n* Want to deploy and manage background tasks together with app.\n* Don't require a separate scaling model\n\nFor more scalable, independently hosted, consider using Azure Functions.\n\n### Choosing Web jobs\n\n* Triggered Web jobs: run on demand or in response to specific events.\n* Scheduled WebJobs: a specialised type of triggered WebJob that runs on a defined schedule using a settings.job file with NCRON expressions.\n* Continuous Web Jobs: run persistently in the background while your App Service runs. Ideal for queue polling or background monitoring tasks.\n\n![[Pasted image 20260925120750.png|253]]\n"}
+	],
+	"edges":[]
+}
