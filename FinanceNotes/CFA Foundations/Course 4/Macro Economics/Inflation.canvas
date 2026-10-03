@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ea56444e9a9f27ff","x":-180,"y":-160,"width":620,"height":160,"type":"text","text":"## Inflation\n\nInflation is a general rise in prices for products and services"},
+		{"id":"452633f249cc60f6","x":-680,"y":-760,"width":680,"height":440,"type":"text","text":"### Measuring Inflation\n\nA price index tracks the price of a product or service, or a basket of products and services. Inflation is measured as a % change from one period to another.\n\n### CPI\n\nA consumer price index assumes a basket of goods that reflects a typical households spending and tracks its price over time.\n\n* Weights of the components can be changed over time, like new technologies.\n* Retail price index (RPI) is CPI with housing included\n* Both ignore short term prices volatility\n\n### PPI\n\nMeasure the average selling price of products\n\n* Broader than CPIs, include investment products\n* \n"}
+	],
+	"edges":[]
+}

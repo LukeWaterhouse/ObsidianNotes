@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+                "file": "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
                 "viewState": {
-                  "x": -997.7593775363569,
-                  "y": -706.3343487735139,
-                  "zoom": -1.315586385628014
+                  "x": -160.42675977292726,
+                  "y": -187.9626215035075,
+                  "zoom": -1.5432098365138
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Macro Economics"
+              "title": "Inflation"
             }
           }
         ],
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.82242584228516
   },
   "right": {
     "id": "469457552843cc63",
@@ -222,8 +222,9 @@
   },
   "active": "98211f157963b133",
   "lastOpenFiles": [
-    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+    "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "Attachments/Pasted image 20260927093050.png",
     "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
     "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
