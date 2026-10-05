@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"b50ea48524837c38","x":-220,"y":-140,"width":460,"height":300,"type":"text","text":"## MCP\n\nServes as a standardisation layer for AI applications to communicate effectively with external services like APIs."}
+	],
+	"edges":[]
+}

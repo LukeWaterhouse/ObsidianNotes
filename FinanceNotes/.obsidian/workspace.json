@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+                "file": "Computing/Observability/Open Telemetry.canvas",
                 "viewState": {
-                  "x": -160.42675977292726,
-                  "y": -187.9626215035075,
-                  "zoom": -1.5432098365138
+                  "x": 215.16901436002615,
+                  "y": -198.11406015916228,
+                  "zoom": -1.0686728117858064
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Inflation"
+              "title": "Open Telemetry"
             }
           }
         ],
@@ -220,10 +220,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98211f157963b133",
+  "active": "04c1e11b9c2cd388",
   "lastOpenFiles": [
-    "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+    "Computing/AI/A2A.canvas",
+    "Computing/Observability/Open Telemetry.canvas",
+    "Computing/Observability",
+    "Computing/AI/MCP.canvas",
+    "Computing/AI",
+    "Anaplan/agents-mono",
+    "Attachments/Pasted image 20261005105742.png",
+    "Attachments/Pasted image 20261005103745.png",
+    "Attachments/Pasted image 20261005102804.png",
+    "Attachments/Pasted image 20261005102324.png",
+    "Attachments/Pasted image 20261005100627.png",
+    "Attachments/Pasted image 20261005100619.png",
+    "Anaplan/Roles.canvas",
+    "Computing",
     "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+    "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
     "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
     "Attachments/Pasted image 20260927093050.png",
     "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
@@ -231,22 +245,12 @@
     "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
     "Attachments/Pasted image 20260927091005.png",
     "Attachments/Pasted image 20260927090315.png",
-    "Azure/Webjobs.canvas",
+    "Computing/Azure/Webjobs.canvas",
     "Attachments/Pasted image 20260925120750.png",
-    "Azure",
-    "CFA Foundations/Course 4/Accounting/Links Between Financial Statements.canvas",
-    "CFA Foundations/Course 4/Accounting/Financial Statement Analysis.canvas",
-    "CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
-    "CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
-    "Attachments/Pasted image 20260924182655.png",
-    "Attachments/Pasted image 20260924173126.png",
+    "Computing/Azure",
     "CFA Foundations/Course 4/Macro Economics",
     "CFA Foundations/Course 4/Micro Economics",
     "CFA Foundations/Course 4/Untitled.md",
-    "Attachments/Pasted image 20260924155319.png",
-    "Attachments/Pasted image 20260924153624.png",
-    "Attachments/Pasted image 20260924152231.png",
-    "Attachments/Pasted image 20260924152148.png",
     "CFA Foundations/Course 4",
     "CFA Foundations/Micro Economics",
     "Anaplan/Untitled.md",
@@ -254,13 +258,9 @@
     "Anaplan",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
-    "CFA Foundations/Course 4/Accounting",
-    "CFA Foundations/Attachments",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
-    "Attachments",
     "2026-09-09.md",
     "IMC/Financial Markets and Institutions/Introduction.md",
-    "IMC/Untitled.base",
     "Accounting/The Balance Sheet.md",
     "IMC/My Finance Glossary.md",
     "Excalidraw/Drawing 2026-09-09 15.16.31.excalidraw.md",
