@@ -32,9 +32,9 @@
               "state": {
                 "file": "Computing/Observability/Open Telemetry.canvas",
                 "viewState": {
-                  "x": 215.16901436002615,
-                  "y": -198.11406015916228,
-                  "zoom": -1.0686728117858064
+                  "x": 400.0491585972362,
+                  "y": -505.6932737907438,
+                  "zoom": -1.0762734050864409
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -220,10 +220,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04c1e11b9c2cd388",
+  "active": "98211f157963b133",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261005143920.png",
+    "Attachments/Pasted image 20261005143919.png",
     "Computing/AI/A2A.canvas",
     "Computing/Observability/Open Telemetry.canvas",
+    "Attachments/Pasted image 20261005142838.png",
+    "Attachments/Pasted image 20261005142630.png",
     "Computing/Observability",
     "Computing/AI/MCP.canvas",
     "Computing/AI",
@@ -243,10 +247,6 @@
     "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
     "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
     "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
-    "Attachments/Pasted image 20260927091005.png",
-    "Attachments/Pasted image 20260927090315.png",
-    "Computing/Azure/Webjobs.canvas",
-    "Attachments/Pasted image 20260925120750.png",
     "Computing/Azure",
     "CFA Foundations/Course 4/Macro Economics",
     "CFA Foundations/Course 4/Micro Economics",
