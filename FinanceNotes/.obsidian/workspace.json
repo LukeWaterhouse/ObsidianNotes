@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Computing/Observability/Open Telemetry.canvas",
+                "file": "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
                 "viewState": {
-                  "x": 400.0491585972362,
-                  "y": -505.6932737907438,
-                  "zoom": -1.0762734050864409
+                  "x": -120,
+                  "y": -380,
+                  "zoom": -1.3038905353576409
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Open Telemetry"
+              "title": "Inflation"
             }
           }
         ],
@@ -222,10 +222,14 @@
   },
   "active": "98211f157963b133",
   "lastOpenFiles": [
+    "Computing/Observability/Grafana.canvas",
+    "Attachments/Pasted image 20261005145515.png",
+    "Attachments/Pasted image 20261005145504.png",
+    "Attachments/Pasted image 20261005145422.png",
+    "Computing/Observability/Open Telemetry.canvas",
     "Attachments/Pasted image 20261005143920.png",
     "Attachments/Pasted image 20261005143919.png",
     "Computing/AI/A2A.canvas",
-    "Computing/Observability/Open Telemetry.canvas",
     "Attachments/Pasted image 20261005142838.png",
     "Attachments/Pasted image 20261005142630.png",
     "Computing/Observability",
@@ -235,18 +239,13 @@
     "Attachments/Pasted image 20261005105742.png",
     "Attachments/Pasted image 20261005103745.png",
     "Attachments/Pasted image 20261005102804.png",
-    "Attachments/Pasted image 20261005102324.png",
-    "Attachments/Pasted image 20261005100627.png",
-    "Attachments/Pasted image 20261005100619.png",
     "Anaplan/Roles.canvas",
     "Computing",
     "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
     "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
     "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
-    "Attachments/Pasted image 20260927093050.png",
     "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
     "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
-    "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
     "Computing/Azure",
     "CFA Foundations/Course 4/Macro Economics",
     "CFA Foundations/Course 4/Micro Economics",

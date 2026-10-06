@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e3758317812f8457","type":"file","file":"Attachments/Pasted image 20261005145422.png","x":-760,"y":-680,"width":400,"height":409},
+		{"id":"12ac9a3a9150c0ba","type":"text","text":"## Data Sources\n\nA connection to a storage backend that holds your data such.\n\n* Prometheus Server\n* Loki instance\n* SQL database\n\nGrafana has built in support for many data sources. Each data source comes with a query editor to formulate custom queries.\n\n![[Pasted image 20261005145515.png|539]]\n\nOnly administrators can manage data sources.","x":-200,"y":-360,"width":840,"height":520}
+	],
+	"edges":[]
+}
