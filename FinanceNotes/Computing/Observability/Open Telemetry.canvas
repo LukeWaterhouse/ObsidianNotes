@@ -6,7 +6,7 @@
 		{"id":"34fe10ce17d2c928","type":"text","text":"## Collector \n\nA process that takes information from the client services and **processes/aggregates** it. Can then be **sent on** to other **collectors** or a **backend**.\n\n* Optionally can communicate information straight from the service to the backend but takes extra compute.","x":280,"y":-540,"width":400,"height":240},
 		{"id":"b97afc912b0ee17e","type":"file","file":"Attachments/Pasted image 20261005142838.png","x":-600,"y":-1000,"width":400,"height":332},
 		{"id":"bab7031017cd2bc4","type":"text","text":"## Observability Backend\n\nOT is not a product, its a framework.\n\n* 3rd party products will take data from the collector and process, filter and visualise it.\n\t* Grafana\n\t* Application Insights\n\t* Prometheus\n\t* Data Dog","x":760,"y":-540,"width":440,"height":240},
-		{"id":"58b734d0ad40b36d","x":280,"y":-834,"width":400,"height":139,"type":"file","file":"Attachments/Pasted image 20261005143920.png"}
+		{"id":"58b734d0ad40b36d","type":"file","file":"Attachments/Pasted image 20261005143920.png","x":280,"y":-834,"width":400,"height":139}
 	],
 	"edges":[
 		{"id":"6c6692d59aa40c3c","fromNode":"b89443064fdbf84d","fromSide":"top","toNode":"56a46f814818944b","toSide":"bottom"},

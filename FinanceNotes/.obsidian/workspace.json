@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
+                "file": "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
                 "viewState": {
-                  "x": 293.1501749231087,
-                  "y": -184.74386543680134,
-                  "zoom": -0.40427307121898903
+                  "x": 437.5,
+                  "y": -520,
+                  "zoom": -0.978459849173677
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Profit and Costs of Production"
+              "title": "Inflation"
             }
           },
           {
@@ -32,17 +32,16 @@
               "state": {
                 "file": "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
                 "viewState": {
-                  "x": -120,
-                  "y": -380,
-                  "zoom": -1.3038905353576409
+                  "x": 429.072406068841,
+                  "y": -502.12629216050425,
+                  "zoom": -1.4389213960525984
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Inflation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,13 +219,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98211f157963b133",
+  "active": "5d43b6e59226dbfd",
   "lastOpenFiles": [
+    "CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
+    "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+    "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
+    "CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
+    "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
+    "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
+    "Computing/Observability/Open Telemetry.canvas",
+    "Computing/Architecture/Microservices.canvas",
+    "Computing/Architecture/Untitled.md",
+    "Computing/Architecture",
+    "Attachments/Pasted image 20261007093306.png",
     "Computing/Observability/Grafana.canvas",
     "Attachments/Pasted image 20261005145515.png",
     "Attachments/Pasted image 20261005145504.png",
     "Attachments/Pasted image 20261005145422.png",
-    "Computing/Observability/Open Telemetry.canvas",
     "Attachments/Pasted image 20261005143920.png",
     "Attachments/Pasted image 20261005143919.png",
     "Computing/AI/A2A.canvas",
@@ -238,14 +247,7 @@
     "Anaplan/agents-mono",
     "Attachments/Pasted image 20261005105742.png",
     "Attachments/Pasted image 20261005103745.png",
-    "Attachments/Pasted image 20261005102804.png",
-    "Anaplan/Roles.canvas",
     "Computing",
-    "CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
-    "CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
-    "CFA Foundations/Course 4/Accounting/Income Statement.canvas",
-    "CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
-    "CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
     "Computing/Azure",
     "CFA Foundations/Course 4/Macro Economics",
     "CFA Foundations/Course 4/Micro Economics",
@@ -254,7 +256,6 @@
     "CFA Foundations/Micro Economics",
     "Anaplan/Untitled.md",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",
-    "Anaplan",
     "CFA Foundations/Accounting/Assets.md",
     "CFA Foundations/Accounting/Balance Sheet.md",
     "Drawing 2026-09-09 15.17.13.excalidraw.md",
