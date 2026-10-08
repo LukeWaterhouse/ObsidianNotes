@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"e93ed6475231a47d","x":-260,"y":-80,"width":620,"height":320,"type":"text","text":"## Monetary and Fiscal Policy\n\nGovernments and central banks respond to economic conditions.\n\n* Central banks: Monetary policy\n* Governments: Fiscal Policy"},
-		{"id":"1ca327fabcbdffe7","x":-680,"y":-480,"width":460,"height":280,"type":"text","text":"## Monetary Policy\n\nRegards central bank activities, goal is to influence key macroeconomic targets:\n\n* Output or GDP\n* Price stability\n* Employment \n\nMaintain a modest amount of inflation, not deflation and not too high inflation (price stability)\n\n[[Inflation.canvas]]\n\n\n\n"}
-	],
-	"edges":[]
-}

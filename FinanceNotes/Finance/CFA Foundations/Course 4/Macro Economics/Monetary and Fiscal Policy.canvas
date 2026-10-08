@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e93ed6475231a47d","type":"text","text":"## Monetary and Fiscal Policy\n\nGovernments and central banks respond to economic conditions.\n\n* Central banks: Monetary policy\n* Governments: Fiscal Policy","x":-60,"y":-100,"width":620,"height":320},
+		{"id":"1ca327fabcbdffe7","type":"text","text":"## Monetary Policy\n\nRegards central bank activities, goal is to influence key macroeconomic targets:\n\n* Output or GDP\n* Price stability\n* Employment \n\nMaintain a modest amount of inflation, not deflation and not too high inflation (price stability)\n\n[[Inflation.canvas]]\n\nIf only focussing on employment and growth may lead to high inflation (price instability)\n\n\n","x":-680,"y":-760,"width":620,"height":400},
+		{"id":"b0403e6d2b71954f","type":"text","text":"## Monetary Policy Tools\n\n### Open Market Operations\n\n* Central bank can buy bonds which means loaning money to commercial banks\n\t* This injects money into the economy to stimulate it.\n\t* Commercial banks have more cash and can make more loans and lower interest rates\n* Central banks can sell bonds which is borrowing from commercial banks.\n\t* Takes money out of the economy which inreases interest rates to cool spending and fight inflation.\n\nThese operations are designed to change commercial banks interest rates.\n\n### Central Bank Lending Rates\n\nCan change the discount rate which is the rate that commercial banks borrow from the central bank. \n\n* Used to affect short term interest rates given be commercial banks.\n\n### Reserve Requirements\n\nCentral banks can affect the amount of money available for borrowing in an economy by changing bank reserve requirements.\n\nLess money available for loans makes interest rates higher.. cools inflation.","x":60,"y":-790,"width":800,"height":460},
+		{"id":"f8d3dc2cc1d2759c","x":-880,"y":-100,"width":620,"height":360,"type":"text","text":"## Quantitative Easing\n\n"}
+	],
+	"edges":[
+		{"id":"7cdd9ddec80408c8","fromNode":"1ca327fabcbdffe7","fromSide":"right","toNode":"b0403e6d2b71954f","toSide":"left"},
+		{"id":"2281e7ad8364393a","fromNode":"e93ed6475231a47d","fromSide":"top","toNode":"1ca327fabcbdffe7","toSide":"bottom"}
+	]
+}

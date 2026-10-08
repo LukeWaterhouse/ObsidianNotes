@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3172bf7422fc5316","type":"text","text":"## Central Bank (Bank of England)\n\nA central bank like the 'Bank of England' controls a countries money supply, sets official rates and manages monetary policy. \n\n* Acts as a bank for commercial banks and the government.\n\nAim to keep rices (inflation) stable at around 2%\n\n* Raises interest rates to cool spending and fight inflation.\n* Lowers interest rates to boost borrowing, investment and economic growth.\n\n---\n\nExclusive rights to print money\n\nDuring a financial crisis, the central bank lends emergency money to struggling banks to prevent collapse. (by printing)\n\n---\n\nSupervise regular banks and ensure they follow financial rules likes keeping enough reserves.\n\n","x":-320,"y":-120,"width":800,"height":600},
+		{"id":"c6170dfbb6029d18","x":-455,"y":-617,"width":271,"height":118,"type":"text","text":"## Journey of Tax Money"},
+		{"id":"05dd7fe6d2b0a838","x":-80,"y":-667,"width":400,"height":219,"type":"text","text":"## Collection Phase (Taxpayer)\n\n* You pay taxes\n\t* Income tax\n\t* VAT\n\t* Council tax\n* Money is collected by HMRC"},
+		{"id":"f659f5071604f91d","x":400,"y":-693,"width":440,"height":272,"type":"text","text":"## Commercial Transit\n\n* HMRC does not have a physical vault\n* Processes payments through a commercial bank using government banking service.\n* Each day a 'digital sweep' clears out the commercial accounts and sends to the Bank of England."},
+		{"id":"2f70cbda5f0a00df","x":920,"y":-693,"width":440,"height":272,"type":"text","text":"## Central Bank\n\n* Arrives in Bank of Englands Consolidated Fund Account. \n* Account is managed by the governments HM Treasury.\n\n\n\n"},
+		{"id":"29c449f6fa25c5ff","x":1440,"y":-693,"width":440,"height":272,"type":"text","text":"## Allocation & Spending\n\n* Parliament votes on budgets and how much money to be spent on different departments.\n* HM Treasury instructs Bank of England to release funds from the Consolidated Fund Account to different government departments."}
+	],
+	"edges":[
+		{"id":"605dacb18561f34e","fromNode":"c6170dfbb6029d18","fromSide":"right","toNode":"05dd7fe6d2b0a838","toSide":"left"},
+		{"id":"54acd75068ea39e7","fromNode":"3172bf7422fc5316","fromSide":"top","toNode":"c6170dfbb6029d18","toSide":"bottom"},
+		{"id":"027b7f3581e6d72f","fromNode":"05dd7fe6d2b0a838","fromSide":"right","toNode":"f659f5071604f91d","toSide":"left"},
+		{"id":"b0d7d196eb3d0523","fromNode":"f659f5071604f91d","fromSide":"right","toNode":"2f70cbda5f0a00df","toSide":"left"},
+		{"id":"cf0b5a675e0a5717","fromNode":"2f70cbda5f0a00df","fromSide":"right","toNode":"29c449f6fa25c5ff","toSide":"left"}
+	]
+}
