@@ -25,6 +25,23 @@
             }
           },
           {
+            "id": "2a2c601fad7d19d9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
+                "viewState": {
+                  "x": 627.0688908778193,
+                  "y": 271.7067764079361,
+                  "zoom": -1.2668980962558465
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "International Trade Economics"
+            }
+          },
+          {
             "id": "98211f157963b133",
             "type": "leaf",
             "state": {
@@ -41,7 +58,8 @@
               "title": "Inflation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.82242584228516
+    "width": 360.0722312927246
   },
   "right": {
     "id": "469457552843cc63",
@@ -219,11 +237,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d43b6e59226dbfd",
+  "active": "2a2c601fad7d19d9",
   "lastOpenFiles": [
+    "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
+    "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
+    "Finance/CFA Foundations/Course 4/Economics of international trade",
+    "Finance/CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
     "Finance/Learning/UK Central Bank.canvas",
     "Finance/CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
-    "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
     "Finance/Learning",
     "Finance",
     "Finance/CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
@@ -232,11 +253,9 @@
     "Finance/CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
     "Finance/CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
     "Computing/Observability/Open Telemetry.canvas",
-    "Computing/Architecture/Microservices.canvas",
     "Computing/Architecture/Untitled.md",
     "Computing/Architecture",
     "Attachments/Pasted image 20261007093306.png",
-    "Computing/Observability/Grafana.canvas",
     "Attachments/Pasted image 20261005145515.png",
     "Attachments/Pasted image 20261005145504.png",
     "Attachments/Pasted image 20261005145422.png",
@@ -252,7 +271,6 @@
     "Computing",
     "Computing/Azure",
     "Finance/CFA Foundations/Course 4/Macro Economics",
-    "Finance/CFA Foundations/Course 4/Micro Economics",
     "CFA Foundations/Course 4/Untitled.md",
     "Anaplan/Untitled.md",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",

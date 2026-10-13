@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"620a09f904137728","x":120,"y":-800,"width":760,"height":680,"type":"text","text":"## Trade Barriers\n\n### Tariffs\n\nTaxes (duties) levied on imported products and services. Allows governments to protect domestic suppliers and raise revenue.\n\nThe importer pays the tariff.\n\n### Quotas\n\nLimits placed on quantity of products that can be imported\n\n### Non-Tariff Barriers\n\nMeasures such as certification, licensing, sanctions or embargoes that make it more difficult and expensive for foreign producers to compete with domestic.\n\n### Embargoes/Sanctions\n\nMeasures that prohibit trade with a country\n\n\n\n"},
+		{"id":"ad1b1a82576bf478","x":-640,"y":-120,"width":620,"height":400,"type":"text","text":"## Imports and Exports\n\n* **Imports**: products and services produced outside a countries borders and brought into the country.\n\n* **Exports**: products and services produced in a countries borders and transported to another country or exported. \n\t* Japan exports consumer electronics.\n\n**International trade** provides consumers with **more choices** and **lower prices**, spurs competition.\n\n**Two major trends** have promoted international trade:\n\n* Fewer t**rade barriers**\n* Better **transportation** and **communication**\n\n"},
+		{"id":"50fd4f871050a6eb","x":120,"y":280,"width":760,"height":480,"type":"text","text":"## Comparative Advantages Among Countries\n\n**Comparative advantage**: a countries ability to produce a good or service relatively more efficiently (at lower relative cost) than other countries.\n\n"}
+	],
+	"edges":[
+		{"id":"fc9b48093d050106","fromNode":"ad1b1a82576bf478","fromSide":"top","toNode":"620a09f904137728","toSide":"left"}
+	]
+}
