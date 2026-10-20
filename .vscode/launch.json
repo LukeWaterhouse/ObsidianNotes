@@ -1,0 +1,58 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Code Learning: Debug API + Web",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "code-learning: debug prep",
+      "postDebugTask": "code-learning: stop web dev",
+      "program": "${workspaceFolder}/CodeLearningProjects/api/CodeLearning.Api/bin/Debug/net10.0/CodeLearning.Api.dll",
+      "cwd": "${workspaceFolder}/CodeLearningProjects/api/CodeLearning.Api",
+      "stopAtEntry": false,
+      "console": "integratedTerminal",
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://localhost:5080"
+      },
+      "serverReadyAction": {
+        "action": "startDebugging",
+        "name": "Code Learning: · Web",
+        "pattern": "Now listening on:\\s+(https?://\\S+)",
+        "killOnServerStop": true
+      }
+    },
+    {
+      "name": "Code Learning: · Web",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5173",
+      "webRoot": "${workspaceFolder}/CodeLearningProjects/web",
+      "sourceMapPathOverrides": {
+        "/@fs/*": "*",
+        "/@/*": "${webRoot}/src/*",
+        "/src/*": "${webRoot}/src/*"
+      }
+    },
+    {
+      "name": "Code Learning: API only",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "code-learning: build api",
+      "program": "${workspaceFolder}/CodeLearningProjects/api/CodeLearning.Api/bin/Debug/net10.0/CodeLearning.Api.dll",
+      "cwd": "${workspaceFolder}/CodeLearningProjects/api/CodeLearning.Api",
+      "stopAtEntry": false,
+      "console": "integratedTerminal",
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_URLS": "http://localhost:5080"
+      }
+    },
+    {
+      "name": "Code Learning: Attach to API",
+      "type": "coreclr",
+      "request": "attach",
+      "processId": "${command:pickProcess}"
+    }
+  ]
+}

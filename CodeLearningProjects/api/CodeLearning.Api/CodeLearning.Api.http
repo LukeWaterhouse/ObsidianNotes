@@ -1,0 +1,6 @@
+@CodeLearning.Api_HostAddress = http://localhost:5196
+
+GET {{CodeLearning.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

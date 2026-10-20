@@ -28,17 +28,14 @@
             "id": "2a2c601fad7d19d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
-                "viewState": {
-                  "x": 627.0688908778193,
-                  "y": 271.7067764079361,
-                  "zoom": -1.2668980962558465
-                }
+                "file": "Computing/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "International Trade Economics"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -239,8 +236,12 @@
   },
   "active": "2a2c601fad7d19d9",
   "lastOpenFiles": [
-    "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
+    "Computing/Real Time Data.canvas",
+    "Computing/Untitled.md",
+    "Computing/AI/Prompt Engineering/Untitled.canvas",
     "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
+    "Computing/AI/Prompt Engineering",
+    "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
     "Finance/CFA Foundations/Course 4/Economics of international trade",
     "Finance/CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
     "Finance/Learning/UK Central Bank.canvas",
@@ -250,9 +251,6 @@
     "Finance/CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
     "Finance/CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
     "Finance/CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
-    "Finance/CFA Foundations/Course 4/Micro Economics/Micro Economics.canvas",
-    "Finance/CFA Foundations/Course 4/Micro Economics/Market Environment.canvas",
-    "Computing/Observability/Open Telemetry.canvas",
     "Computing/Architecture/Untitled.md",
     "Computing/Architecture",
     "Attachments/Pasted image 20261007093306.png",
@@ -270,7 +268,6 @@
     "Attachments/Pasted image 20261005103745.png",
     "Computing",
     "Computing/Azure",
-    "Finance/CFA Foundations/Course 4/Macro Economics",
     "CFA Foundations/Course 4/Untitled.md",
     "Anaplan/Untitled.md",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",

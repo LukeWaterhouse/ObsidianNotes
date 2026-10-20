@@ -1,0 +1,53 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "code-learning: build api",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "${workspaceFolder}/CodeLearningProjects/api/CodeLearning.Api/CodeLearning.Api.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign"
+      ],
+      "group": "build",
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "code-learning: web dev",
+      "type": "shell",
+      "command": "npm run dev -- --host 127.0.0.1 --port 5173",
+      "options": {
+        "cwd": "${workspaceFolder}/CodeLearningProjects/web"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "vite",
+        "pattern": {
+          "regexp": "."
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": ".",
+          "endsPattern": "(Local:|ready in)"
+        }
+      }
+    },
+    {
+      "label": "code-learning: debug prep",
+      "dependsOn": [
+        "code-learning: build api",
+        "code-learning: web dev"
+      ],
+      "dependsOrder": "sequence",
+      "problemMatcher": []
+    },
+    {
+      "label": "code-learning: stop web dev",
+      "type": "shell",
+      "command": "${workspaceFolder}/CodeLearningProjects/dev-down.sh",
+      "problemMatcher": []
+    }
+  ]
+}
