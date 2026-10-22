@@ -28,14 +28,17 @@
             "id": "2a2c601fad7d19d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computing/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
+                "viewState": {
+                  "x": 435.7417189312506,
+                  "y": 364.29702000529886,
+                  "zoom": -1.1625778944517233
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "International Trade Economics"
             }
           },
           {
@@ -118,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.0722312927246
+    "width": 236.67975616455078
   },
   "right": {
     "id": "469457552843cc63",
@@ -236,8 +239,12 @@
   },
   "active": "2a2c601fad7d19d9",
   "lastOpenFiles": [
+    "Computing/Producer Consumer Pattern.canvas",
+    "Attachments/Pasted image 20261020144810.png",
+    "Attachments/Pasted image 20261020134810.png",
+    "Attachments/Pasted image 20261020134741.png",
+    "Computing/Producer-consumer pattern.md",
     "Computing/Real Time Data.canvas",
-    "Computing/Untitled.md",
     "Computing/AI/Prompt Engineering/Untitled.canvas",
     "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
     "Computing/AI/Prompt Engineering",
@@ -250,7 +257,6 @@
     "Finance",
     "Finance/CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
     "Finance/CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
-    "Finance/CFA Foundations/Course 4/Micro Economics/Profit and Costs of Production.canvas",
     "Computing/Architecture/Untitled.md",
     "Computing/Architecture",
     "Attachments/Pasted image 20261007093306.png",
@@ -260,12 +266,9 @@
     "Attachments/Pasted image 20261005143920.png",
     "Attachments/Pasted image 20261005143919.png",
     "Attachments/Pasted image 20261005142838.png",
-    "Attachments/Pasted image 20261005142630.png",
     "Computing/Observability",
     "Computing/AI",
     "Anaplan/agents-mono",
-    "Attachments/Pasted image 20261005105742.png",
-    "Attachments/Pasted image 20261005103745.png",
     "Computing",
     "Computing/Azure",
     "CFA Foundations/Course 4/Untitled.md",

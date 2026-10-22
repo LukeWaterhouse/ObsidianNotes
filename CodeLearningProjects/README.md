@@ -7,6 +7,8 @@ Minimal C# API plus React front end for small experiments (SSE first; more examp
 - `api/CodeLearning.Api` — ASP.NET Core API (`Features/<Topic>/…`)
 - `web` — Vite + React (`src/features/<topic>/…`)
 
+Examples in the app nav: **SSE** and **Bounded buffer** (capacity 3, blocking `Put` / `Take` via `GET|POST /api/buffer`).
+
 ## Run SSE example
 
 Terminal 1 — API (http://localhost:5080):

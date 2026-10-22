@@ -1,9 +1,11 @@
+.demo-page,
 .sse-page {
   display: flex;
   justify-content: center;
   padding: 2.5rem 1.25rem 3rem;
 }
 
+.demo-card,
 .sse-card {
   width: min(36rem, 100%);
   background: var(--surface);
