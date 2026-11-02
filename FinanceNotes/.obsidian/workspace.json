@@ -32,9 +32,9 @@
               "state": {
                 "file": "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
                 "viewState": {
-                  "x": 435.7417189312506,
-                  "y": 364.29702000529886,
-                  "zoom": -1.1625778944517233
+                  "x": -728.829648434697,
+                  "y": -470.0982174509932,
+                  "zoom": -1.5753865257191648
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -47,19 +47,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Finance/CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+                "file": "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
                 "viewState": {
-                  "x": 429.072406068841,
-                  "y": -502.12629216050425,
-                  "zoom": -1.4389213960525984
+                  "x": -2234.0717627185563,
+                  "y": 586.4345999950363,
+                  "zoom": -1.1149691068812206
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Inflation"
+              "title": "International Trade Economics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.67975616455078
+    "width": 236.67975616455078,
+    "collapsed": true
   },
   "right": {
     "id": "469457552843cc63",
@@ -237,8 +238,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2c601fad7d19d9",
+  "active": "a25ed605d3b9b299",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261022160556.png",
+    "Attachments/Pasted image 20261022153527.png",
+    "Finance/CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
+    "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Links Between Financial Statements.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Financial Statement Analysis.canvas",
     "Computing/Producer Consumer Pattern.canvas",
     "Attachments/Pasted image 20261020144810.png",
     "Attachments/Pasted image 20261020134810.png",
@@ -246,17 +255,11 @@
     "Computing/Producer-consumer pattern.md",
     "Computing/Real Time Data.canvas",
     "Computing/AI/Prompt Engineering/Untitled.canvas",
-    "Finance/CFA Foundations/Course 4/Economics of international trade/International Trade Economics.canvas",
     "Computing/AI/Prompt Engineering",
     "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
     "Finance/CFA Foundations/Course 4/Economics of international trade",
-    "Finance/CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
-    "Finance/Learning/UK Central Bank.canvas",
-    "Finance/CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
     "Finance/Learning",
     "Finance",
-    "Finance/CFA Foundations/Course 4/Macro Economics/Macro Economics.canvas",
-    "Finance/CFA Foundations/Course 4/Macro Economics/Inflation.canvas",
     "Computing/Architecture/Untitled.md",
     "Computing/Architecture",
     "Attachments/Pasted image 20261007093306.png",
@@ -265,7 +268,6 @@
     "Attachments/Pasted image 20261005145422.png",
     "Attachments/Pasted image 20261005143920.png",
     "Attachments/Pasted image 20261005143919.png",
-    "Attachments/Pasted image 20261005142838.png",
     "Computing/Observability",
     "Computing/AI",
     "Anaplan/agents-mono",
