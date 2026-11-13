@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"921959a4a5f42862","type":"text","text":"## Portfolio Diversification\n\n* Combining Assets not perfectly correlated reduces portfolio risk (measured by standard deviation) to a level below the weighted average risk of the individual assets. Improves risk return tradeoff\n* Diminishing Risk reduction means after 30 different shares incremental risk reduction becomes very small, trading costs exceed benefits.\n* Asset Class Diversification, global equity, bonds, real estate etc reduces risk across market.","x":120,"y":-520,"width":600,"height":280},
+		{"id":"3d5b3c4e02cf6d40","type":"text","text":"## Systematic vs Specific Risk\n\n* Systematic risk is caused by economic conditions such as a recession and cannot be diversified away.\n\n\n* Specific Risk unique to a specific company or security (such as failed drug trial or CEO scandal).\n\t* Can be diversified away.\n\t* Taking on specific risk does not necessarily mean higher expected returns, can be diversified.","x":-640,"y":-520,"width":600,"height":280},
+		{"id":"19a930ae5359ba22","type":"text","text":"## Risk and Portfolio Diversification\n\n* Risk in investment terms means possibility that actual realised returns differ from expected.\n* Higher returns and lower risk are desired.\n\n","x":-200,"y":0,"width":500,"height":180},
+		{"id":"f5f8ecff91e887a3","type":"file","file":"Attachments/Pasted image 20261111154729.png","x":520,"y":-134,"width":603,"height":449}
+	],
+	"edges":[
+		{"id":"866683f00e6e4fd2","fromNode":"19a930ae5359ba22","fromSide":"top","toNode":"921959a4a5f42862","toSide":"bottom"},
+		{"id":"b0f3c044b1077ffc","fromNode":"19a930ae5359ba22","fromSide":"top","toNode":"3d5b3c4e02cf6d40","toSide":"bottom"}
+	]
+}

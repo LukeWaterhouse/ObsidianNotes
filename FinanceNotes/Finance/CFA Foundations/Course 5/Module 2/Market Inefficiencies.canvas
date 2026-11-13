@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"673cb59f9bdddfeb","type":"text","text":"## Fundamental Analysis\n\nEvaluates macroeconomic, industry and company specific factors to determine a securities fundamental value (or intrinsic value).\n\n#### Methodology\n\nAnalysts thoroughly examine a companies business model, future prospects, competitive positioning, cost structures and profit margins, often interviewing company management while abiding by selective disclosure and insider trading laws.\n\n#### Valuation & Execution\n\nIntrinsic value is estimated as the present value of all expected future cash flows (such as discounted future dividends) Managers operate on the premise that market prices eventually converge towards intrinsic values; if a securities market price is significantly below its estimated value, the manager will buy or overweight the asset.","x":-760,"y":-400,"width":640,"height":560},
+		{"id":"3a57b12b6c1ee8d9","type":"text","text":"## Market Inefficiencies\n\nActive managers rely on four main analytical approaches\n","x":200,"y":160,"width":440,"height":120},
+		{"id":"12226c00345b6b45","x":-760,"y":280,"width":640,"height":360,"type":"text","text":"## Technical Analysis\n\nExamines historical market data - specifically price patterns and trading volumes to forecast future price movements.\n\n#### Methodology\n\nTechnical analysts look for supply and demand imbalances between potential buyers and sellers. A common strategy is momentum investing which operates on the premise that an asset whose price has been rising will continue to rise."},
+		{"id":"eefd74600fd66af9","x":880,"y":-400,"width":600,"height":320,"type":"text","text":"## Behavioural Analysis\n\nFocuses on evaluating market sentiment to gauge investor psychology and anticipate price shifts.\n\n#### Methodology\n\nAnalysts review sentiment indicators such as indices of consumer expectations or manufacturers new orders to enter positions before shifts in buyer or seller interest move markets.\n\n"},
+		{"id":"a03354c40e60c675","x":880,"y":280,"width":600,"height":360,"type":"text","text":"## Quantitative Analysis\n\nUses statistical and mathematical models to analyse historical data and identify specific asset characteristics associated with outperformance.\n\n#### Methodology\n\nManagers using this approach - commonly called \"quants\" screen for quantitative parameters. For instance a model might identify that stocks combining below average P/E ratios with above average expected earnings growth consistently outperform the broader market.\n\n"}
+	],
+	"edges":[
+		{"id":"f7fa951cb8e60588","fromNode":"3a57b12b6c1ee8d9","fromSide":"left","toNode":"673cb59f9bdddfeb","toSide":"right"},
+		{"id":"95ab891edb8b8cc5","fromNode":"3a57b12b6c1ee8d9","fromSide":"left","toNode":"12226c00345b6b45","toSide":"right"},
+		{"id":"a12d9eff6131ab90","fromNode":"3a57b12b6c1ee8d9","fromSide":"right","toNode":"eefd74600fd66af9","toSide":"left"},
+		{"id":"3d2b0bd9dc9f8ae3","fromNode":"3a57b12b6c1ee8d9","fromSide":"right","toNode":"a03354c40e60c675","toSide":"left"}
+	]
+}

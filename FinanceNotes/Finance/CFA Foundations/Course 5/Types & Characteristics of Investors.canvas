@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"eca891f840076a93","type":"text","text":"## Individual Investors\n\n**Trade** **securities** or **authorise others** to do so for their **personal accounts**.\n\n\n### Retail Investor\n\n* Individual with modest resources.\n* Normally provided with standardised cost effective services; online portals, call centres.\n\n### High net worth investors\n\n* Substantial investable assets.\n* Personalised attention, estate planning, separate accounts rather than pooled funds.\n\n---\n\n**Family Offices**: **Ultra high net worth investors** may employ professionals in a family office - a company **dedicated** to **managing** **financial**, **legal** and estate **affairs** for one or more **wealthy families**.\n\n**Regulators** **restrict** certain complex or **alternative** **investments** to **accredited investors*\n\n\n\n\n","x":-1000,"y":-630,"width":720,"height":650},
-		{"id":"fcdd2120da2c8f8b","type":"text","text":"## Investor Types\n\n\n\n\n","x":-280,"y":80,"width":220,"height":60},
-		{"id":"ddb65e35027b76e5","x":40,"y":-630,"width":600,"height":650,"type":"text","text":""}
-	],
-	"edges":[]
-}

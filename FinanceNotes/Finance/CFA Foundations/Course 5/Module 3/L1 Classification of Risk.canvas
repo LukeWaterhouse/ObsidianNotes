@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"42a21ed9fb20388d","x":-420,"y":-280,"width":800,"height":660,"type":"text","text":"## Risk\n\nEffect of uncertain future events on an organisation (such as profit).\n\n#### Operational Risk\n\nRisk of losses resulting from failed people, systems, internal policies and procedures, external events that effect operations.\n\nExamples include human error, internal fraud, rogue trading, IT failures, contractual disputes\n\n#### Compliance Risk\n\nRisk a company fails to comply with applicable laws, rules, regulations resulting in legal sanctions, penalties, reputation damage etc.\n\n#### Investment Risk\n\nThe risk associated with investing that arises from fluctuations in value of assets."}
+	],
+	"edges":[]
+}

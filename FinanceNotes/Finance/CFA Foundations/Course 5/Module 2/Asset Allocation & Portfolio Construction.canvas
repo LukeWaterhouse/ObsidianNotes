@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"15eddebf1739e940","type":"text","text":"## Asset Allocation and Portfolio Construction\n\n**Asset allocation** determines which **asset classes** to include in what **ratios** (global equities, government bonds, real estate, commodities etc).\n\nMost **important** determinant of **long term** portfolio **performance**.","x":-260,"y":-180,"width":520,"height":280},
+		{"id":"47efb1ab98476aae","type":"text","text":"## Strategic Asset Allocation\n\n\n* **Baseline** **longterm** **allocation** to achieve investors long term risk and return objectives.\n\n* **Differing** **assets** cause **weightings** to **drift** overtime (as some increase in value) **Rebalancing** **restores** **original** **weightings**. Done in **intervals** due to **trading costs**.\n\n![[Pasted image 20261111161242.png]]","x":-1080,"y":-680,"width":600,"height":560},
+		{"id":"7d23f75b7bae45d7","type":"text","text":"## Tactical Asset Allocation\n\nShort term deviations, a short term adjustment away from strategic asset allocation to exploit short term market fluctuations, like if interest rates change or stocks are over/under values.\n\nCan use P/E ratios, market trends etc.\n\nSet within permitted target ranges, like 56-64% equities rather than 60% static","x":360,"y":-680,"width":680,"height":280}
+	],
+	"edges":[
+		{"id":"0e6463c76a197f54","fromNode":"15eddebf1739e940","fromSide":"left","toNode":"47efb1ab98476aae","toSide":"right"},
+		{"id":"74eccb96307841ee","fromNode":"15eddebf1739e940","fromSide":"right","toNode":"7d23f75b7bae45d7","toSide":"left"}
+	]
+}
