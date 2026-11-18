@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6811d448cf66e31a","x":-260,"y":-160,"width":540,"height":320,"type":"text","text":"## Performance Evaluation\n\nMonitor whether portfolio returns are sufficient to meet long-term financial liabilities and spending needs.\n\n#### 4 Step Framework\n\n1. Measure absolute returns, combing capital price changes and earned income (dividends, income).\n2. Measure Relative Returns, comparing to specified market benchmark or peer group.\n3. Adjust returns for risk; evaluate whether performance justifies volatility or risk incurred.\n4. Attribute performance, isolates specific sources of return such as asset or security selection."}
+		{"id":"6811d448cf66e31a","type":"text","text":"## Performance Evaluation\n\nMonitor whether portfolio returns are sufficient to meet long-term financial liabilities and spending needs.\n\n#### 4 Step Framework\n\n1. Measure absolute returns, combing capital price changes and earned income (dividends, income).\n2. Measure Relative Returns, comparing to specified market benchmark or peer group.\n3. Adjust returns for risk; evaluate whether performance justifies volatility or risk incurred.\n4. Attribute performance, isolates specific sources of return such as asset or security selection.","x":-240,"y":-120,"width":540,"height":320}
 	],
 	"edges":[]
 }
