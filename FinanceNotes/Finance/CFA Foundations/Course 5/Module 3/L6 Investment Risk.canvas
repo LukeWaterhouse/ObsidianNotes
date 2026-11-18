@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bcbf52e3b46001ae","x":-200,"y":-80,"width":240,"height":80,"type":"text","text":"## Investment Risk\n"},
+		{"id":"0ac04ffce5d39fcd","x":-960,"y":-520,"width":680,"height":280,"type":"text","text":"## Market Risk\n\nRisk caused by changes in general market conditions that affect asset prices.\n\n1. Equity Price Risk\n2. Interest Rate Risk (for debt securities)\n3. Foreign Exchange rate risk\n4. Commodity price risk\n\nMitigation: establish risk limits, hedge with derivative instruments."},
+		{"id":"d0cb5cc5e65e8940","x":240,"y":-520,"width":520,"height":440,"type":"text","text":"## Credit Risk\n\nRisk for a lender that a borrower fails to honour a contract and make timely payment of interest and principal.\n\n#### Mitigation\n\n* evaluate borrower ability and willingness to pay debt\n* impose cap on max exposure to counterparty or credit rating tier.\n* Covenants (rules on borrower)\n* Credit Default Swaps to offset potential losses."},
+		{"id":"de4066c757bcfbba","x":-960,"y":80,"width":600,"height":160,"type":"text","text":"## Liquidity Risk\n\nRisk an asset or security cannot be bought or sold quickly without making a significant price concession."}
+	],
+	"edges":[
+		{"id":"7cb30c3d855e24d0","fromNode":"bcbf52e3b46001ae","fromSide":"left","toNode":"0ac04ffce5d39fcd","toSide":"right"},
+		{"id":"d901a63a674ca9ed","fromNode":"bcbf52e3b46001ae","fromSide":"left","toNode":"de4066c757bcfbba","toSide":"right"},
+		{"id":"b106afc20c578b22","fromNode":"bcbf52e3b46001ae","fromSide":"right","toNode":"d0cb5cc5e65e8940","toSide":"left"}
+	]
+}

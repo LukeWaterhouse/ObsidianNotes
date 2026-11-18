@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5ef5d7ed1908bd3c","type":"text","text":"## Measures of Return\n\n#### Total Return\n\nTotal Return (Holding-Period Return): The complete financial performance of a security or portfolio over a holding period.\n\n* Capital Component: Capital gains or losses resulting from changes in market price.\n* Income Component: Cash earned during the period, such as stock dividends, bond interest.\n\n![[Pasted image 20261118131831.png|519]]\n\n![[Pasted image 20261118131904.png|433]]","x":-340,"y":-360,"width":880,"height":740},
+		{"id":"6702ed34d3d1622d","x":-1440,"y":-590,"width":840,"height":600,"type":"text","text":"## Cash Flow Distortions & Time Weighted Rate of Return (TWRR)\n\n#### Cash Flow Problem\n\nExternal deposits (inflows) or withdrawals alter portfolio value during the holding period. Calculating total return across periods with these distorts performance..\n\n#### TWRR\n\n* Whenever inflow or outflow, a new sub period begins. Returns calculated separately and then compounded.\n* Global Investment Performance Standards (GIPS) require using TWRR.\n\n\n#### Arithmetic Mean vs Geometric Mean Returns\n\n* **Arithmetic mean**: adds sub period returns together and divides by number of periods to get average.\n* **Geometric Mean**: compounds sub period returns over time taking into account cumulative growth/compounding (preffered for performance evaluation)."}
+	],
+	"edges":[
+		{"id":"4f2cdd412afa8e8f","fromNode":"5ef5d7ed1908bd3c","fromSide":"left","toNode":"6702ed34d3d1622d","toSide":"right"}
+	]
+}

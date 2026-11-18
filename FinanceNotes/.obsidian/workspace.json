@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Finance/CFA Foundations/Course 4/Macro Economics/Monetary and Fiscal Policy.canvas",
+                "file": "Finance/CFA Foundations/Course 5/Module 4/L2 Measures of Return.canvas",
                 "viewState": {
-                  "x": -145.98207498592348,
-                  "y": -14.763911873468317,
-                  "zoom": -0.7346963132565035
+                  "x": 14.53124962307307,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Monetary and Fiscal Policy"
+              "title": "L2 Measures of Return"
             }
           },
           {
@@ -47,15 +47,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Finance/CFA Foundations/Course 5/Module 3/L2 Risk Management Process.canvas",
+                "file": "Finance/CFA Foundations/Course 5/Module 4/L3 Benchmarks.canvas",
                 "viewState": {
-                  "x": -617.5946189886963,
-                  "y": 58.54931195525648,
-                  "zoom": -1.568459501727636
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "L2 Risk Management Process"
+              "title": "L3 Benchmarks"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.3615188598633
+    "width": 291.30396270751953
   },
   "right": {
     "id": "469457552843cc63",
@@ -256,7 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5870361328125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,41 +271,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a25ed605d3b9b299",
+  "active": "98211f157963b133",
   "lastOpenFiles": [
+    "Finance/CFA Foundations/Course 5/Module 4/L2 Measures of Return.canvas",
+    "Finance/CFA Foundations/Course 5/Module 4/L3 Benchmarks.canvas",
+    "Attachments/Pasted image 20261118131904.png",
+    "Attachments/Pasted image 20261118131831.png",
+    "Finance/CFA Foundations/Course 1/Module 1/L2 How Economies benefit from the existence of the Investment Industry.canvas",
+    "Finance/CFA Foundations/Course 1/Module 1/L1 What is the Financial Services Industry.canvas",
+    "Attachments/Pasted image 20261116151715.png",
+    "Finance/CFA Foundations/Untitled.canvas",
+    "Finance/CFA Foundations/Course 1/Module 1",
+    "Finance/CFA Foundations/Course 1",
+    "Finance/CFA Foundations/Course 5/Module 3/L7 Value at Risk.canvas",
+    "Finance/CFA Foundations/Course 5/Module 4/L1 The Performance Evaluation Process.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L5 Compliance Risk.canvas",
+    "Finance/CFA Foundations/Course 5/Module 4",
+    "Finance/CFA Foundations/Course 5/Module 3/L6 Investment Risk.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L4 Operational Risk.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L3 Risk Management Functions.canvas",
     "Attachments/Pasted image 20261113164250.png",
     "Attachments/Pasted image 20261113164244.png",
-    "Finance/CFA Foundations/Course 5/Module 3/L1 Classification of Risk.canvas",
-    "Finance/CFA Foundations/Course 5/Module 3/L2 Risk Management Process.canvas",
-    "Finance/CFA Foundations/Course 5/Module 2/Risk and Portfolio Diversification.canvas",
-    "Finance/CFA Foundations/Course 5/Module 2/Market Inefficiencies.canvas",
     "Finance/CFA Foundations/Course 5/Module 3",
-    "Finance/CFA Foundations/Course 5/Module 2/Passive and Active Investment Management.canvas",
-    "Finance/CFA Foundations/Course 5/Module 2/Asset Allocation & Portfolio Construction.canvas",
-    "Computing/Producer Consumer Pattern.canvas",
-    "Computing/Real Time Data.canvas",
-    "Maths/Standard Deviation.canvas",
     "Attachments/Pasted image 20261113115430.png",
     "Maths",
     "Attachments/Pasted image 20261112090212.png",
     "Attachments/Pasted image 20261111161242.png",
     "Attachments/Pasted image 20261111154729.png",
-    "Computing/AI/A2A.canvas",
     "Attachments/Pasted image 20261109161136.png",
-    "Attachments/Pasted image 20261109161133.png",
     "Finance/CFA Foundations/Course 5/Module 2",
     "Finance/CFA Foundations/Course 5/Module 1",
     "Finance/CFA Foundations/Course 5",
-    "Attachments/Pasted image 20261022160556.png",
-    "Attachments/Pasted image 20261022153527.png",
-    "Attachments/Pasted image 20261020144810.png",
     "Computing/Producer-consumer pattern.md",
     "Computing/AI/Prompt Engineering",
     "Finance/CFA Foundations/Course 4/Economics of international trade",
-    "Finance/Learning",
-    "Finance",
     "Computing/Architecture/Untitled.md",
-    "Computing/Architecture",
     "CFA Foundations/Course 4/Untitled.md",
     "Anaplan/Untitled.md",
     "Drawing 2026-09-09 16.08.36.excalidraw.md",

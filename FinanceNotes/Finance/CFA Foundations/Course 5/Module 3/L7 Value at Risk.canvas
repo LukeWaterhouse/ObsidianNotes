@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"5fc741dea1f00297","type":"text","text":"## Value at Risk\n\nAn estimate of the **minimum** **expected** **loss** over a **specific holding period** at a **given** **probability** level.\n\nE.g a 1-day VaR of $1 million at 5% probability means a 5% change of losing at least $1 million in a single day (expected once every 20 trading days).\n\n#### Advantages\n\n* Standard metric comparable across diverse assets, portfolios and markets\n* Clear and easy to communicate to management\n* Effective tool for risk budgeting and capital allocation\n\n#### Limitations\n\n* Measures minimum loss, not max potential loss\n* Relies on historical data failing to predict unprecedented events","x":-480,"y":-200,"width":680,"height":500}
+	],
+	"edges":[]
+}

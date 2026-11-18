@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"413863d4f75d6944","type":"text","text":"## Risk Management Functions\n\nInvestment firms typically establish a dedicated risk management department led by a Chief Risk Officer (CRO) who reports to board of directors.\n\nRisk considerations evaluated independently against profitability goals.\n\n### Three Lines of Defence model\n\n#### 1. Employees/Managers\n\nDaily operational staff and line managers who identify and manage risk within their everyday responsibilities\n\n#### 2. Risk Management & Compliance Groups\n\nSpecialised functions that advise, monitor and assist front line managers while maintaining operational independence\n\n#### 3. Internal Audit\n\nAn independent function that evaluates business processes and ensures IT and accounting systems accurately record transactions. Internal auditors report directly to the boards audit committee.\n\n### Benefits vs Cost of Risk Management\n\nKey Benefits: prevents excessive risk taking, enhances operational discipline, helps detect fraud early.\n\nCosts:\n\n* Hiring personel\n* Building procedures, IT infrastructure\n* Slower decisions\n* Potential missed opportunities\n","x":-520,"y":-440,"width":1000,"height":860}
+	],
+	"edges":[]
+}

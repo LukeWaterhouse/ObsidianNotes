@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e55fab2d4d5c85a8","type":"text","text":"## Compliance Risk\n\nRisk that an organisation fails to comply with all applicable rules, laws and regulations, resulting in legal sanctions and severe reputational damage.\n\n#### Impact\n\nViolating external laws carries steeper penalties than internal. Includes fines, loss of business licenses, lawsuits and prison terms.\n\n#### Whistleblowing\n\nInternal reporting procedures enable employees to come forward and report suspected legal or regulatory violations supported by legal protections.\n\n\n","x":-400,"y":-340,"width":680,"height":440},
+		{"id":"88fcd60e414a2875","type":"text","text":"## Corruption\n\n**Abuse** of **power** for **private gain**\n\n* National authorities apply **bribery laws** extra-territorially to **foreign entities**\n* Organisations remain legally **responsible** for **third-party** agents and cannot use ignorance of their practises as defence.\n* Mitigate by \"**tone at the top**\" of zero corruption tolerance, monitoring and strict **controls** over **corporate gifts** and hospitality.","x":-1240,"y":-640,"width":680,"height":245},
+		{"id":"80b127a4b9924127","type":"text","text":"## Tax Reporting\n\nComplex as tax principles can change significantly across time and jurisdictions.\n\n* Distinguish between tax avoidance (using tax code to minimise owed tax) and evasion (violating law).","x":-1240,"y":160,"width":680,"height":200},
+		{"id":"1968e59b214e9c09","x":480,"y":-640,"width":560,"height":245,"type":"text","text":"## Insider Trading\n\nIllegally trading securities while possessing material non-public information.\n\n* Investment firms control using control rooms to monitor internal information flows and virtual walls to restrict confidential information exchange between teams."},
+		{"id":"f8fcdbe0821db3a3","x":480,"y":70,"width":560,"height":290,"type":"text","text":"## Anti-Money Laundering\n\nMoney derived from criminal activities entering financial system under guise of legitimate earnings.\n\nrequires financial institutions to perform formal risk assessments on clients using Know-Your-Customer (KYC) procedures."}
+	],
+	"edges":[
+		{"id":"1ab9ba773396c4b7","fromNode":"e55fab2d4d5c85a8","fromSide":"left","toNode":"88fcd60e414a2875","toSide":"bottom"},
+		{"id":"6a4aad6a2d90ffb0","fromNode":"e55fab2d4d5c85a8","fromSide":"left","toNode":"80b127a4b9924127","toSide":"top"},
+		{"id":"d0f5b7e14b455664","fromNode":"e55fab2d4d5c85a8","fromSide":"right","toNode":"1968e59b214e9c09","toSide":"left"},
+		{"id":"acea15bdde91ec0b","fromNode":"e55fab2d4d5c85a8","fromSide":"right","toNode":"f8fcdbe0821db3a3","toSide":"left"}
+	]
+}
