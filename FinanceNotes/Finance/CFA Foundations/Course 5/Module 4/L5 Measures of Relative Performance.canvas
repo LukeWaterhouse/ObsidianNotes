@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"1b0d740eb20e280a","type":"text","text":"## Measures of Relative Performance\n\n#### Tracking Error (Active Risk)\n\nMeasures how much an investment portfolios performance deviates from the performance of its benchmark.\n\nMeasured as the standard deviation of the differences between the portfolios returns and the benchmarks returns over time.\n\n#### Information Ratio\n\nReward to risk ratio defined as the portfolios mean active return divided by its active risk (tracking error).\n\n![[Pasted image 20261119110014.png|478]]\n\nEvaluates how much excess return a manager generated relative to the benchmark of every unit of active risk incurred","x":-320,"y":-280,"width":820,"height":600}
+	],
+	"edges":[]
+}

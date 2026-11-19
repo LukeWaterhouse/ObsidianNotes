@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"b79bb3a86ec92687","type":"text","text":"## Benchmarks","x":-140,"y":20,"width":250,"height":60}
+		{"id":"b79bb3a86ec92687","type":"text","text":"## Benchmarks\n\n**Relative Return**: Difference between portfolios holding period return and return on benchmark over same period.\n\n* Helps investors assess opportunity cost.\n* Comparison benchmark portfolio like S&P 500\n* **Passive Tracking**: Index fund managers construct portfolios to replicate a reference index.\n* **Peer Ranking**: Independent agencies rank funds against peers in same market sector.\n\n\n\n\n\n","x":-280,"y":-80,"width":600,"height":320},
+		{"id":"1ddcf6755323283a","x":-1000,"y":-480,"width":600,"height":400,"type":"text","text":"## Criteria for Selecting Benchmark\n\n* Investable: fund manager can buy and sell in the market\n* Compatible: matches investors return objective, risk tolerance etc.\n* Transparent: Rules for index construction, weightings, return calc methods, asset additions/removals are clearly defined\n* Pre-specified: designated before investments made"}
 	],
 	"edges":[]
 }

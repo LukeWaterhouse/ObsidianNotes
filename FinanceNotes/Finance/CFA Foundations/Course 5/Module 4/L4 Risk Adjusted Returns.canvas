@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ffa9c8fee2fc5efe","type":"text","text":"## Risk Adjusted Returns\n\nEvaluates **investment performance** by **comparing** total **returns** against the amount of **risk** incurred to generate those returns.\n\nFavour portfolios that deliver **higher** **return** per **unit** of **risk**.\n\n\n\n","x":-160,"y":-210,"width":540,"height":240},
+		{"id":"8eed9a6bd71a5f3a","type":"text","text":"## Measures of Risk Dispersion\n\n#### Standard Deviation\n\nMeasures the overall variability of returns around the average (mean) return, higher standard deviations reflecting greater return volatility (risk).\n[[Standard Deviation.canvas]]\n\n#### Downside Deviation\n\nModified deviation measure that focuses exclusively on negative return outcomes (returns below the mean).\n\nMore important as investors like losses less.\n\n","x":-960,"y":-520,"width":680,"height":400},
+		{"id":"6d4515c500aab7ae","type":"text","text":"## Rewards to Risk Ratios\n\nMetric formed by dividing a measure of portfolio return by a measure of portfolio risk; a higher ratio indicates superior risk adjusted performance.\n\n(measure of risk is often the standard deviation of past returns or downside deviation)\n\n![[Pasted image 20261119095905.png]]\n\n#### Sharpe Ratio\n\nMeasures excess return generated per unit of total volatility.\n\n![[Pasted image 20261119095957.png]]\n\n![[Pasted image 20261119103113.png|633]]\n\nSee here mid cap stocks had best reward to risk ratio\n\n#### Treynor Ratio\n\nMeasures excess return generated per unit of systematic risk\n\n![[Pasted image 20261119100036.png]]\n\nBeta is a statistical measure of a security or portrfolios systematic risk (market risk)","x":480,"y":-680,"width":960,"height":1180}
+	],
+	"edges":[
+		{"id":"181e0f91704f4cf7","fromNode":"ffa9c8fee2fc5efe","fromSide":"left","toNode":"8eed9a6bd71a5f3a","toSide":"right"},
+		{"id":"28c6161fd9347816","fromNode":"ffa9c8fee2fc5efe","fromSide":"right","toNode":"6d4515c500aab7ae","toSide":"left"}
+	]
+}
