@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"35fc2af41290552b","type":"text","text":"## Front, Middle and Back Office Functions\n\n#### Front Office (Client-Facing & Revenue Generation)\n\nHandles client facing activities that drive direct revenue generation including:\n\n* Sales\n* Marketing\n* Customer Service\n\nTrading and research are sometimes classified as front office if staff interact directly with clients or generate direct client revenue.\n\n#### Middle Office (Core Internal Support & Controls)\n\nManages core operational and strategic support functions without direct client interaction. Includes:\n\n* Risk Management\n* Information Technology\n* Corporate Finance\n* Portfolio Management\n* Research\n\n#### Back Office\n\nProvides administrative support essential to daily business operations, including:\n\n* Accounting\n* Human Resources\n* Payroll\n* Clearing/settling trades\n","x":169,"y":200,"width":880,"height":840},
+		{"id":"b385af31a8578a79","type":"text","text":"* Operations like Compliance operate across all levels.\n* Buy side don't always use this structure, more sell side.","x":-155,"y":1200,"width":515,"height":120},
+		{"id":"a40a9ff5fce9312d","type":"text","text":"## Buy Side vs Sell-Side Firms\n\n**Sell-Side Firms**: Provide investment products, trading venues, research and capital raising services. Typical sell-side participants include:\n\n* Investment banks\n* Brokers\n* Dealers\n\n**Buy-Side Firms**: Purchase investment products and services from sell-side firms to manage capital for themselves or their clients. Includes institutional investors and asset managers [[Types & Characteristics of Investors.canvas]]","x":-500,"y":366,"width":540,"height":509},
+		{"id":"525908e3c3d07ac8","type":"file","file":"Attachments/Pasted image 20261120132451.png","x":-296,"y":45,"width":399,"height":182},
+		{"id":"2b7f61cf768c4545","type":"file","file":"Attachments/Pasted image 20261120132506.png","x":1200,"y":136,"width":759,"height":460}
+	],
+	"edges":[
+		{"id":"9a788a36d0f74224","fromNode":"a40a9ff5fce9312d","fromSide":"top","toNode":"525908e3c3d07ac8","toSide":"bottom"},
+		{"id":"d68bb5482b936d96","fromNode":"35fc2af41290552b","fromSide":"right","toNode":"2b7f61cf768c4545","toSide":"left"},
+		{"id":"5ab07ac2127b50b3","fromNode":"35fc2af41290552b","fromSide":"bottom","toNode":"b385af31a8578a79","toSide":"top"},
+		{"id":"6e569537f0746f45","fromNode":"a40a9ff5fce9312d","fromSide":"right","toNode":"35fc2af41290552b","toSide":"left"}
+	]
+}

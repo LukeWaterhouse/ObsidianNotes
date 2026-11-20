@@ -49,13 +49,47 @@
               "state": {
                 "file": "Finance/CFA Foundations/Course 1/Module 1/L2 How Economies benefit from the existence of the Investment Industry.canvas",
                 "viewState": {
-                  "x": 13.25675780027484,
-                  "y": -453.46172595465805,
-                  "zoom": -1.3613518472753028
+                  "x": 554.941123610421,
+                  "y": -700.8936777137475,
+                  "zoom": -1.1509093668816979
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "L2 How Economies benefit from the existence of the Investment Industry"
+            }
+          },
+          {
+            "id": "625ff50eb18ae632",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Finance/CFA Foundations/Course 1/Module 2/L2 Investment Firm Staff and Leadership.canvas",
+                "viewState": {
+                  "x": 479.7591677381728,
+                  "y": 5.330686572486371,
+                  "zoom": -1.2770061397151693
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "L2 Investment Firm Staff and Leadership"
+            }
+          },
+          {
+            "id": "d1c89f61b205cb1f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Finance/CFA Foundations/Course 1/Module 2/L3 Financial Institutions.canvas",
+                "viewState": {
+                  "x": -469.8323444743195,
+                  "y": -267.7755872594906,
+                  "zoom": -1.2384258938023245
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "L3 Financial Institutions"
             }
           },
           {
@@ -93,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fundamental value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,15 +307,20 @@
   },
   "active": "a25ed605d3b9b299",
   "lastOpenFiles": [
-    "Finance/CFA Foundations/Course 1/Module 1/L1 What is the Financial Services Industry.canvas",
-    "Finance/CFA Foundations/Course 1/Module 1/L2 How Economies benefit from the existence of the Investment Industry.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L1 The Performance Evaluation Process.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L2 Measures of Return.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L3 Benchmarks.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L4 Risk Adjusted Returns.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L5 Measures of Relative Performance.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L6 Alpha.canvas",
-    "Finance/CFA Foundations/Course 5/Module 4/L7.canvas",
+    "Finance/CFA Foundations/Course 1/Module 2/L2 Investment Firm Staff and Leadership.canvas",
+    "Finance/CFA Foundations/Course 1/Module 2/L1 Structure of Investment Firms.canvas",
+    "Finance/CFA Foundations/Course 1/Module 1/L4 Investment Industry Participants.canvas",
+    "Finance/CFA Foundations/Course 1/Module 2/L3 Financial Institutions.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L7 Value at Risk.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Cash Flow Statement.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Balance Sheet.canvas",
+    "Finance/CFA Foundations/Course 4/Accounting/Income Statement.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L1 Classification of Risk.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L2 Risk Management Process.canvas",
+    "Finance/CFA Foundations/Course 5/Module 3/L3 Risk Management Functions.canvas",
+    "Attachments/Pasted image 20261120132506.png",
+    "Attachments/Pasted image 20261120132451.png",
+    "Finance/CFA Foundations/Course 1/Module 2",
     "Attachments/Pasted image 20261119110014.png",
     "Attachments/Pasted image 20261119103113.png",
     "Attachments/Pasted image 20261119100036.png",
@@ -290,13 +329,9 @@
     "Attachments/Pasted image 20261119095905.png",
     "Attachments/Pasted image 20261118131904.png",
     "Attachments/Pasted image 20261118131831.png",
-    "Attachments/Pasted image 20261116151715.png",
-    "Finance/CFA Foundations/Untitled.canvas",
     "Finance/CFA Foundations/Course 1/Module 1",
     "Finance/CFA Foundations/Course 1",
-    "Finance/CFA Foundations/Course 5/Module 3/L7 Value at Risk.canvas",
     "Finance/CFA Foundations/Course 5/Module 4",
-    "Attachments/Pasted image 20261113164250.png",
     "Finance/CFA Foundations/Course 5/Module 3",
     "Maths",
     "Finance/CFA Foundations/Course 5/Module 2",
@@ -304,7 +339,6 @@
     "Finance/CFA Foundations/Course 5",
     "Computing/Producer-consumer pattern.md",
     "Computing/AI/Prompt Engineering",
-    "Finance/CFA Foundations/Course 4/Economics of international trade",
     "Computing/Architecture/Untitled.md",
     "CFA Foundations/Course 4/Untitled.md",
     "Anaplan/Untitled.md",

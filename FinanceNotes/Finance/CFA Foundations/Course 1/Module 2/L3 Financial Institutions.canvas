@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b1f1957bae39d06d","x":-920,"y":-640,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3c50aaa73a9270a4","type":"text","text":"## Financial Institutions\n\nIntermediary organisations such as banks and insurance companies that collect money from savers and invest or lend it.\n\nRole in Capital Flow: Bridge the gap between savers and spenders.\n\n\n","x":-280,"y":-220,"width":540,"height":200}
+	],
+	"edges":[]
+}

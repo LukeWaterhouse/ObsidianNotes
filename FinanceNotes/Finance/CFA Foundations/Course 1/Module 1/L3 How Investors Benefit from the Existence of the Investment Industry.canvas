@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"71f2a81c66e484e6","type":"text","text":"## Investor Trust and Product Diversity\n\nWell functioning markets require **investor** **confidence** built on ethical behaviour, professional **standards** and **regulatory** **protection**; **trust** is **eroded** by:\n\n* Unfair trades\n* Lack of integrity\n* Unreliable advice\n* Inefficient trade execution\n\nInvestors benefit from **diverse** **options** such as:\n\n* Debt\n* Equity\n* Derivatives\n* Alternative investment\n* Pooled investment vehicles\n\n\n\n\n","x":-360,"y":-610,"width":600,"height":500},
+		{"id":"575a6b7a8596001f","type":"text","text":"## Competitive Markets, Liquidity & Transaction costs\n\n---\n\n **Competitive Markets**: having many competing buyers and sellers ensures fair pricing without any single participant controlling supply and demand.\n \n ---\n\n**Liquid Markets**: High liquidity allows investors to buy or sell assets quickly without causing significant price impacts\n\n---\n\n**Low Transaction Costs**: Trading costs directly reduce net returns; competitive and liquid venues minimise these expenses to preserve capital.","x":-1440,"y":-580,"width":680,"height":440},
+		{"id":"2a3db9ea01e6b767","type":"text","text":"## Professional Service & Risk Management\n\n**Information Processing**: Professionals collect and analyse data so savers can accurately evaluate fundamental asset values and reduce information risk.\n\n---\n\n**Risk and Hedging**: Advisers help investors assess risk-return trade offs and implement strategies ranging from simple diversification to complex hedging and insurance.\n\n---\n\n**Core Services**: Savers access essential operational **support**, including financial **planning**, market **research**, **trading** support and **custody** services\n","x":-880,"y":80,"width":685,"height":440}
+	],
+	"edges":[
+		{"id":"7f6f169fdf398e53","fromNode":"71f2a81c66e484e6","fromSide":"left","toNode":"575a6b7a8596001f","toSide":"right"},
+		{"id":"3d23fe9c7fc359fb","fromNode":"575a6b7a8596001f","fromSide":"bottom","toNode":"2a3db9ea01e6b767","toSide":"left"},
+		{"id":"ffd63d86ee96d8ff","fromNode":"2a3db9ea01e6b767","fromSide":"right","toNode":"71f2a81c66e484e6","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"983e1711f007bb5f","type":"text","text":"## Executive Leadership\n\n**Chief Executive Officer (CEO)**: Executes the firms overall **corporate strategy**, manages day to day business operations and reports directly to board of directors.\n\n**Chief Financial Officer (CFO)**: Oversees financial planning, financial risk management, record-keeping, statutory financial reporting.\n\n**Chief Investment Officer (CIO)**: Leads the firms overall investment strategy, oversees portfolio management activities and supervises the research team.\n\n**Chief Risk Officer (CRO)**: Identifies, measures and manages operational, financial and market risks across all firm activities. [[L1 Classification of Risk.canvas]]\n\n**Chief Compliance Officer (CCO)**: Ensures the firm strictly adheres to external legal and regulatory rules as well as internal policies and ethical standards.\n\n\n","x":-280,"y":-400,"width":620,"height":560},
+		{"id":"35663da69fa54a61","type":"text","text":"## Investment Team Positions\n\n**Portfolio Managers**: Responsible for making day-to-day investment decisions, managing asset allocation and constructing portfolios aligned with client mandates\n\n**Traders**: Execute buy and sell orders in financial markets based on instructions from portfolio managers, seeking best execution to minimise transaction costs.\n\n**Analysts** (Buy and Sell Side): Analyse macroeconomic data, industry trends and corporate financial statements to provide buy, sell or hold recommendations.","x":480,"y":80,"width":600,"height":380}
+	],
+	"edges":[
+		{"id":"7b8b0ce0fd373d4a","fromNode":"983e1711f007bb5f","fromSide":"right","toNode":"35663da69fa54a61","toSide":"top"}
+	]
+}

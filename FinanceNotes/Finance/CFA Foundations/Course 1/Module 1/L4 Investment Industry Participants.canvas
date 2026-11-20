@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8a27067719296ee0","type":"text","text":"## Investment Industry Participants","x":80,"y":0,"width":440,"height":80},
+		{"id":"65feec9bf6d7d77f","type":"text","text":"#### Raising Capital and Investment Banks\n\n---\n\n**Investment Banks**: Financial Intermediaries that assist companies and governments in raising capital by issuing stocks and bonds (e.g. managing an IPO).\n\n**Sell-Side Analysts**: Analysts working for sell side organisations (such as investment banks) who collect corporate data and publish research reports for potential buyers.\n","x":-640,"y":-360,"width":600,"height":360},
+		{"id":"6db6e941a68d776b","type":"text","text":"## Types of Investors\n\n#### Individual Investors\n\n**Retail Investors**: Have the least investable assets and typically rely on standardised products (mutual funds) and basic financial planning.\n\n**High Net Worth Investors**: Hold substantial investable assets and receive customised advice and asset management.\n\n---\n#### Institutional Investors\n\n**Pension Plans**: Hold assets to pay retirement benefits to beneficiaries.\n\n**Endowment Funds & Foundations**: Long-term non-profit funds and grant making institutions.\n\n**Sovereign Wealth Funds**: Government owned funds investing budget surpluses for citizens.\n\n","x":760,"y":-360,"width":680,"height":520},
+		{"id":"64607d3fff9e95ba","type":"text","text":"## Investment Management & Information Providers\n\n**Asset/Investment Managers**: Professionals given discretionary authority to manage and trade portfolios on behalf of their clients.\n\n**Buy-side Analysts**: Analysts working inside institutional/buy side firms who evaluate potential investments for their firms portfolios.\n\n**Information Providers**: Data vendors, rating agencies (S&P Global) and research providers that supply market feeds and analytical reports.","x":-420,"y":400,"width":720,"height":360},
+		{"id":"58e54fa02f27c1fd","type":"text","text":"## Trading, Settlement & Custodial Services\n\n**Brokers**: Act as agents, arranging trades between buyers and sellers for a commission without trading from their own accounts.\n\n**Dealers** (Market Makers): Act as principals, using their own capital to buy at a bid price and sell at the ask price (spread) to provide instant market liquidity.\n\n**Clearing houses & Settlement Agents**: Process, confirm and execute the final exchange of cash for securities post-trade.\n\n**Custodians & Depositories**: Safe keep cash and securities in electronic book-entry form, maintain account records, collect dividends/interest and prevent fraud.\n\n","x":520,"y":400,"width":760,"height":440}
+	],
+	"edges":[
+		{"id":"3a9663f0a3a91dbd","fromNode":"8a27067719296ee0","fromSide":"left","toNode":"65feec9bf6d7d77f","toSide":"right"},
+		{"id":"999f3615ead247d2","fromNode":"8a27067719296ee0","fromSide":"right","toNode":"6db6e941a68d776b","toSide":"left"},
+		{"id":"c0263fe7a23afebc","fromNode":"8a27067719296ee0","fromSide":"bottom","toNode":"64607d3fff9e95ba","toSide":"top"},
+		{"id":"8f13b3363e7383b9","fromNode":"8a27067719296ee0","fromSide":"bottom","toNode":"58e54fa02f27c1fd","toSide":"top"}
+	]
+}
